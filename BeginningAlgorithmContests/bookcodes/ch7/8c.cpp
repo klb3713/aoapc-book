@@ -1,4 +1,5 @@
 #include<cstdio>
+#include<cstring>
 #include<set>
 using namespace std;
 
@@ -7,7 +8,7 @@ const int MAXSTATE = 1000000;
 State st[MAXSTATE], goal;
 int dist[MAXSTATE];
 
-int vis[36288], fact[9];
+int vis[362880], fact[9];
 void init_lookup_table() {
   fact[0] = 1;
   for(int i = 1; i < 9; i++) fact[i] = fact[i-1] * i;

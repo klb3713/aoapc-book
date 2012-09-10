@@ -1,5 +1,8 @@
-#include<stdio.h>
-#include<string.h>
+#include<cstdio>
+#include<cstring>
+#include<algorithm>
+using namespace std;
+
 const int INF = 1000000000;
 const int MAXN = 1000;
 
@@ -22,7 +25,7 @@ int main() {
     int x, m = INF;
     for(int y = 0; y < n; y++) if(!v[y] && d[y]<=m) m = d[x=y];
     v[x] = 1;
-    for(int y = 0; y < n; y++) d[y] <?= d[x] + G[x][y];
+    for(int y = 0; y < n; y++) d[y] = min(d[y], d[x] + G[x][y]);
   }
   for(int i = 0; i < n; i++)
     printf("%d\n", d[i]);

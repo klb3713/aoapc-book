@@ -1,7 +1,10 @@
-#include<stdio.h>
-#define MAXN 105
+#include<cstdio>
+#include<algorithm>
+using namespace std;
+
+#define MaxN 105
 #define INF 1000000000
-int V[MAXN], min[MAXN], max[MAXN];
+int V[MaxN], Min[MaxN], Max[MaxN];
 int n, S;
 
 void print_ans(int* d, int S) {
@@ -16,21 +19,21 @@ void print_ans(int* d, int S) {
 int main() {
   scanf("%d%d", &n, &S);
   for(int i = 1; i <= n; i++) scanf("%d", &V[i]);
-  min[0] = max[0] = 0;
+  Min[0] = Max[0] = 0;
   for(int i = 1; i <= S; i++) {
-    min[i] = INF;
-    max[i] = -INF;
+    Min[i] = INF;
+    Max[i] = -INF;
   }
   for(int i = 1; i <= S; i++)
     for(int j = 1; j <= n; j++)
       if(i >= V[j]) {
-        min[i] <?= min[i-V[j]] + 1;
-        max[i] >?= max[i-V[j]] + 1;
+        Min[i] = min(Min[i], Min[i-V[j]] + 1);
+        Max[i] = max(Max[i], Max[i-V[j]] + 1);
       }
-  printf("%d %d\n", min[S], max[S]);
-  print_ans(min, S);
+  printf("%d %d\n", Min[S], Max[S]);
+  print_ans(Min, S);
   printf("\n");
-  print_ans(max, S);
+  print_ans(Max, S);
   printf("\n");
   return 0;
 }

@@ -1,7 +1,7 @@
 #include<cstdio>
 #include<cstring>
 #include<queue>
-#include<cstdlib>
+#include<algorithm>
 using namespace std;
 const int INF = 1000000000;
 const int MAXN = 1000;
@@ -45,7 +45,7 @@ int main() {
     }
     if(d[t] == INF) break;
     int a = INF;
-    for(int u = t; u != s; u = p[u]) a <?= cap[p[u]][u] - flow[p[u]][u];
+    for(int u = t; u != s; u = p[u]) a = min(a, cap[p[u]][u] - flow[p[u]][u]);
     for(int u = t; u != s; u = p[u]) {
       flow[p[u]][u] += a;
       flow[u][p[u]] -= a;
@@ -55,6 +55,5 @@ int main() {
   }
 
   printf("%d %d\n", f, c);
-  //printf("%.2lf\n", clock() / (double)CLOCKS_PER_SEC);
   return 0;
 }

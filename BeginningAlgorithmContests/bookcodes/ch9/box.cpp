@@ -1,5 +1,8 @@
-#include<stdio.h>
-#include<string.h>
+#include<cstdio>
+#include<cstring>
+#include<algorithm>
+using namespace std;
+
 #define MAXN 1010
 int n, G[MAXN][MAXN];
 int x[MAXN], y[MAXN], d[MAXN];
@@ -8,7 +11,7 @@ int dp(int i) {
   int& ans = d[i];
   if(ans > 0) return ans;
   ans = 1;
-  for(int j = 1; j <= n; j++) if(G[i][j]) ans >?= dp(j)+1;
+  for(int j = 1; j <= n; j++) if(G[i][j]) ans = max(ans, dp(j)+1);
   return ans;
 }
 

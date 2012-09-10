@@ -1,5 +1,8 @@
-#include<stdio.h>
-#include<string.h>
+#include<cstdio>
+#include<cstring>
+#include<algorithm>
+using namespace std;
+
 #define MAXN 105
 int cap[3], x;
 int vis[MAXN][MAXN];
@@ -33,7 +36,7 @@ void bfs() {
     for(i = 0; i < 3; i++)
       for(j = 0; j < 3; j++) if(i!=j) {
         Node& v = q[rear];
-        int amount = u.v[i] <? (cap[j]-u.v[j]);
+        int amount = min(u.v[i], (cap[j]-u.v[j]));
         for(k = 0; k < 3; k++) v.v[k] = u.v[k];
         v.v[i] -= amount;
         v.v[j] += amount;

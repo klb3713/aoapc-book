@@ -1,7 +1,10 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include<time.h>
-#include<assert.h>
+#include<cstdio>
+#include<cstdlib>
+#include<ctime>
+#include<cassert>
+#include<algorithm>
+using namespace std;
+
 int A[100000], S[100000];
 
 int cubic(int* A, int n) {
@@ -38,16 +41,24 @@ int square(int* A, int* S, int n) {
   return best;
 }
 
-int nlogn(int* A, int x, int y) {
-  int i, m, v, L, R, max;
+int nlogn(int* A, int x, int y, int& tot) {
+  int v, L, R;
   if(y - x == 1) return A[x];
-  m = x + (y-x)/2;
-  max = nlogn(A, x, m) >? nlogn(A, m, y);
+  int m = x + (y-x)/2;
+  int ans = max(nlogn(A, x, m, tot), nlogn(A, m, y, tot));
   v = 0; L = A[m-1];
-  for(i = m-1; i >= x; i--) L >?= v += A[i];
+  for(int i = m-1; i >= x; i--) {
+    v += A[i];
+    L = max(L, v);
+    tot++;
+  }
   v = 0; R = A[m];
-  for(i = m; i < y; i++) R >?= v += A[i];
-  return max >? (L+R);
+  for(int i = m; i < y; i++) {
+    v += A[i];
+    R = max(R, v);
+    tot++;
+  }
+  return max(ans, L+R);
 }
 
 int main() {
@@ -58,7 +69,7 @@ int main() {
     A[i] = rand();
   x1 = cubic(A, n);
   x2 = square(A, S, n);
-  x3 = nlogn(A, 1, n+1);
+  x3 = nlogn(A, 1, n+1, tot);
   printf("tot = %d\n", tot);
   printf("%d %d %d\n", x1, x2, x3);
   assert(x1 == x2 && x1 == x3);

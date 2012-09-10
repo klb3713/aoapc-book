@@ -14,6 +14,7 @@ void merge_sort(int* A, int x, int y, int* T) {
   }
 }
 
+#include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
 #include<assert.h>

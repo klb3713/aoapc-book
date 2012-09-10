@@ -1,6 +1,7 @@
 #include<cstdio>
 #include<cstring>
 #include<queue>
+#include<algorithm>
 using namespace std;
 const int INF = 1000000000;
 const int MAXN = 1000;
@@ -30,7 +31,7 @@ int main() {
       int u = q.front(); q.pop();
       for(int v = 0; v < n; v++) if(!a[v] && cap[u][v]>flow[u][v]){
         p[v] = u; q.push(v);
-        a[v] = a[u] <? cap[u][v]-flow[u][v];
+        a[v] = min(a[u], cap[u][v]-flow[u][v]);
       }
     }
     if(a[t] == 0) break;
