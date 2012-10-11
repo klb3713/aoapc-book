@@ -14,7 +14,7 @@ int main() {
     if(is_prime(i)) prime[count++] = i;
 
   while(scanf("%d", &n) == 1 && n > 0) {
-    printf("%d! =", n);
+    printf("%3d! =", n);
     memset(p, 0, sizeof(p));
     int maxp = 0;
     for(int i = 1; i <= n; i++) {
@@ -26,8 +26,12 @@ int main() {
           if(j > maxp) maxp = j;
         }
     }
-    for(int i = 0; i <= maxp; i++)
-      printf(" %d", p[i]);
+    int count = 0;
+    for(int i = 0; i <= maxp; i++) {
+      if(count > 0 && count % 15 == 0) printf("\n      ");
+      printf("%3d", p[i]);
+      ++count;
+    }
     printf("\n");
   }
   return 0;

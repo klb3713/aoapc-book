@@ -126,6 +126,7 @@ ostream& operator << (ostream &out, const bign& x) {
 int main() {
   bign a;
   cin >> a;
+  cout << a*a << endl;
   a += "123456789123456789000000000";
   cout << a*2 << endl;
   return 0;
