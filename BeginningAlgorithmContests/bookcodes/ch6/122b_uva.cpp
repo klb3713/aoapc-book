@@ -55,10 +55,12 @@ int bfs() {
 int main() {
   while(read_input()) {
     if(!bfs()) failed = 1;
-    if(failed) printf("-1\n");
+    if(failed) printf("not complete\n");
     else {
-      for(int i = 0; i < n; i++)
-        printf("%d ", ans[i]);
+      for(int i = 0; i < n; i++) {
+        if(i != 0) printf(" ");
+        printf("%d", ans[i]);
+      }
       printf("\n");
     }
   }

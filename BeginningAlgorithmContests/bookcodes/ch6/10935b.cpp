@@ -4,7 +4,7 @@ using namespace std;
 
 queue<int> q;
 int main() {
-  int n, front, rear;
+  int n;
   scanf("%d", &n);
   for(int i = 0; i < n; i++) q.push(i+1);
   while(!q.empty()) {
