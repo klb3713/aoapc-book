@@ -1,5 +1,5 @@
 // UVa11396	Claw Decomposition
-// ³Â·æ
+// é™ˆé”‹
 #include<cstdio>
 #include<cstring>
 #include<vector>
