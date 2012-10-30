@@ -6,7 +6,7 @@
 using namespace std;
 
 const int maxn = 500 + 10;
-const int INF = 10000000000;
+const int INF = 1000000000;
 
 int W[maxn][maxn], n;
 int Lx[maxn], Ly[maxn]; // ЖЅБъ
@@ -44,7 +44,7 @@ void KM() {
   }
   for(int i = 1; i <= n; i++) {
     for(;;) {
-      for(int j = 1; j <= n; j++) S[j] = T[j] = 0;
+      for(int j = 1; j <= n; j++) S[j] = T[j] = false;
       if(match(i)) break; else update();
     }
   }
