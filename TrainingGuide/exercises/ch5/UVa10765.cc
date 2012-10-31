@@ -1,4 +1,4 @@
-﻿// UVa10765	Doves and Bombs
+ // UVa10765	Doves and Bombs
 // 陈锋
 #include<cstdio>
 #include<cstring>
@@ -87,6 +87,10 @@ void find_bcc(int n)
 		if(pre[i] == 0) dfs(i, -1);
 }
 
+/*
+	得到结点u的鸽子值，如果u是割顶，那么就是它周围相连的bcc个数
+	否则属于一个bcc，就算删除，整个图依然连通的，所以鸽子值是1
+*/
 int value(int u)
 {
 	if(iscut[u])
