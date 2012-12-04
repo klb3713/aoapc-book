@@ -15,7 +15,7 @@ struct RMQ {
     int n = A.size();
     for(int i = 0; i < n; i++) d[i][0] = A[i];
     for(int j = 1; (1<<j) <= n; j++)
-      for(int i = 0; i + j - 1 < n; i++)
+      for(int i = 0; i + (1<<j) - 1 < n; i++)
         d[i][j] = max(d[i][j-1], d[i + (1<<(j-1))][j-1]);
   }
 
