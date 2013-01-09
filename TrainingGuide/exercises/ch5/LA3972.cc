@@ -126,8 +126,8 @@ struct Ice
 };
 
 Ice iceData[MAXN];
-int N, Dist[MAXN][MAXN];
-double D;
+int N;
+double D, Dist[MAXN][MAXN];
 
 bool tryMeet(int meet)
 {
@@ -161,7 +161,7 @@ void runcase(int kase)
     for(int i = 0; i < N; i++)
         for(int j = 0; j < N; j++)
         {
-            int &d = Dist[i][j];
+            double &d = Dist[i][j];
             d = iceData[i].dist(iceData[j]);
         }
     
