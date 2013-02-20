@@ -8,7 +8,6 @@ using namespace std;
 long long N;
 void runcase()
 {        
-    // 注意F(1) == 2
     cout<<N * (N+1) / 2 + 1<<endl;
 }
 
