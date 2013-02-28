@@ -1,4 +1,6 @@
-例题一览
+《算法竞赛入门经典——训练指南》代码仓库
+
+第一章例题代码
 
 问题求解策略 (General Problem Solving Techniques)
 例题  1  UVa11292  The Dragon of Loowater
