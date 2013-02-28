@@ -1,4 +1,4 @@
-// LA3177 Beijing Guards
+// LA3177/UVa1335 Beijing Guards
 // Rujia Liu
 #include<cstdio>
 #include<algorithm>
@@ -13,7 +13,7 @@ bool test(int p) {
   int x = r[1], y = p - r[1];
   left[1] = x; right[1] = 0;
   for(int i = 2; i <= n; i++) {
-    if(i % 2 == 0) {
+    if(i % 2 == 1) {
       right[i] = min(y - right[i-1], r[i]); // 尽量拿右边的礼物
       left[i] = r[i] - right[i];
     }
@@ -26,9 +26,9 @@ bool test(int p) {
 }
 
 int main() {
-  int n;  
   while(scanf("%d", &n) == 1 && n) {
     for(int i = 1; i <= n; i++) scanf("%d", &r[i]);
+    if(n == 1) { printf("%d\n", r[1]); continue; } // 特判n=1
     r[n+1] = r[1];
 
     int L = 0, R = 0;
