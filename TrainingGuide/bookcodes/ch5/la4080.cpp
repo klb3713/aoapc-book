@@ -137,7 +137,7 @@ int main() {
         e1 = e2 = gr[i][j][0]; // 恢复
       }
 
-    printf("%d %d\n", c, c2); // 办公室(0)到家的符合条件的路径条数
+    printf("%d %d\n", c, c2);
   }
   return 0;
 }
