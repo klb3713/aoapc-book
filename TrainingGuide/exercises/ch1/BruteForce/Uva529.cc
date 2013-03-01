@@ -1,3 +1,5 @@
+// UVa529 Addition Chains
+// 陈锋
 #include <cstdio>
 #include <algorithm>
 
