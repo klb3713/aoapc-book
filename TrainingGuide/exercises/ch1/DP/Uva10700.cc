@@ -1,3 +1,5 @@
+// Uva10700	Camel trading
+// ³Â·æ
 #include <cstring>
 #include <string>
 #include <cctype>

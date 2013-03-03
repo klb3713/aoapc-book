@@ -1,3 +1,5 @@
+// Uva11081	Strings
+// ³Â·æ
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

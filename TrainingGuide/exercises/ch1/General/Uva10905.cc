@@ -1,3 +1,5 @@
+// Uva10905	Children's Game
+// ³Â·æ
 #include <iostream>
 #include <string>
 #include <algorithm>

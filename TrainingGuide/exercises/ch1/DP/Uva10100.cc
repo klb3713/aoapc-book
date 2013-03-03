@@ -1,3 +1,5 @@
+// Uva10100	Longest Match
+// ³Â·æ
 #include <cstdio>
 #include <cstring>
 #include <cctype>

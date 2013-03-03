@@ -1,3 +1,5 @@
+// Uva10534	Wavio Sequence
+// 陈锋
 #include <cstdio>
 #include <algorithm>
 

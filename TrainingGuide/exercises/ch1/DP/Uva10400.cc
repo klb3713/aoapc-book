@@ -1,3 +1,5 @@
+// Uva10400	Game Show Math
+// 陈锋
 #include <cstdio>
 #include <cstring>
 #include <vector>

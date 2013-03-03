@@ -1,3 +1,5 @@
+// Uva10125	Sumsets
+// ³Â·æ
 #include <cstdio>
 #include <vector>
 #include <functional>

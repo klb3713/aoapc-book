@@ -1,3 +1,5 @@
+// Uva10306	e-Coins
+// ³Â·æ
 #include <cstdio>
 #include <cstring>
 #include <climits>

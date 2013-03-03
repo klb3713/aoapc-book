@@ -1,3 +1,5 @@
+// Uva10706	Number Sequence
+// ³Â·æ
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

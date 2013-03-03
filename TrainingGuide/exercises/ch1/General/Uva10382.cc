@@ -1,3 +1,5 @@
+// Uva10382	Watering Grass
+// ³Â·æ
 #include <cstdio>
 #include <cmath>
 #include <vector>

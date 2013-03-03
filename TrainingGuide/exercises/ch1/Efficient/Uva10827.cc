@@ -1,3 +1,5 @@
+// Uva10827 Maximum sum on a torus
+// ³Â·æ
 #include<stdio.h>
 
 #define MAXN 80

@@ -1,3 +1,5 @@
+// Uva10817	Headmaster's Headache
+// 陈锋
 #include <cstring>
 #include <string>
 #include <cctype>

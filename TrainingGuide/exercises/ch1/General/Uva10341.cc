@@ -1,3 +1,5 @@
+// Uva10340	All in All
+// ³Â·æ
 #include <cstdio>
 #include <cmath>
 #include <algorithm>

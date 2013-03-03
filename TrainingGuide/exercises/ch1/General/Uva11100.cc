@@ -1,3 +1,5 @@
+// Uva11100 The Trip, 2007
+// ³Â·æ
 #include <algorithm>
 #include <functional>
 #include <vector>

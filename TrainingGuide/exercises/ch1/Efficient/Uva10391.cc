@@ -1,3 +1,5 @@
+// Uva10391	Compound Words
+// ³Â·æ
 #include <string>
 #include <iterator>
 #include <iostream>

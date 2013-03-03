@@ -1,3 +1,5 @@
+// Uva10130	SuperSale
+// 陈锋
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

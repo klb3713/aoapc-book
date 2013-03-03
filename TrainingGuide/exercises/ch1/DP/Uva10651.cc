@@ -1,3 +1,5 @@
+// Uva10651	Pebble Solitaire
+// 陈锋
 #include <cstring>
 #include <cstdio>
 #include <bitset>

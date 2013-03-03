@@ -1,3 +1,5 @@
+// Uva10085	The most distant state
+// 陈锋
 #include <cstdio>
 #include <cstring>
 #include <cassert>

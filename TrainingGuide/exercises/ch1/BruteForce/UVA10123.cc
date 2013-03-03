@@ -1,3 +1,5 @@
+// Uva10123	No Tipping
+// 陈锋
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

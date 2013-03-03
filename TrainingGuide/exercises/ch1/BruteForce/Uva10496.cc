@@ -1,3 +1,5 @@
+// Uva10496	Collecting Beepers
+// ³Â·æ
 #include <cstdio>
 #include <cstring>
 #include <climits>

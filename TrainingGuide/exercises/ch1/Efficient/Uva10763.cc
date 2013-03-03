@@ -1,3 +1,5 @@
+// Uva10763	Foreign Exchange
+// ³Â·æ
 #include <cstdio>
 #include <vector>
 #include <algorithm>
