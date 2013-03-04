@@ -28,6 +28,7 @@ Uva10827  Maximum sum on a torus ³Â·æ
 Uva10954  Add All ³Â·æ
 Uva11054  Wine trading in Gergovia ³Â·æ
 Uva11495  Bubbles and Buckets ³Â·æ
+UVa11589 Save the President ÁõÈê¼Ñ
 
 ¶¯Ì¬¹æ»® (Dynamic Programming)
 Uva10051  Tower of Cubes ³Â·æ
