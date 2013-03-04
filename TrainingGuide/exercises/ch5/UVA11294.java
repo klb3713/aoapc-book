@@ -1,4 +1,5 @@
-//UVA11294 陈锋
+﻿// UVa11294 Wedding
+// 陈锋
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
@@ -150,4 +151,3 @@ class Reader {
 		return Double.parseDouble(next());
 	}
 }
-

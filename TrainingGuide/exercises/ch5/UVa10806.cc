@@ -1,4 +1,4 @@
-// UVa 10806 Dijkstra, Dijkstra
+﻿// UVa10806 Dijkstra, Dijkstra
 // 陈锋
 #include <cstring>
 #include <cstdio>

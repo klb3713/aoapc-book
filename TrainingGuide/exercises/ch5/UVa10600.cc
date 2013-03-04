@@ -1,4 +1,4 @@
-﻿// UVa10600	ACM Contest and Blackout
+﻿// UVa10600 ACM Contest and Blackout
 // 陈锋
 #include<cassert>
 #include<cstdio>

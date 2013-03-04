@@ -1,3 +1,5 @@
+﻿// UVa10718 Bit Mask
+// 陈锋
 #include<iostream>
 using namespace std;
 

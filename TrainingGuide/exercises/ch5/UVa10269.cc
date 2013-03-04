@@ -1,4 +1,4 @@
-// UVa 10269 Adventure of Super Mario	
+﻿// UVa10269 Adventure of Super Mario
 // 陈锋
 #include<cassert>
 #include<cstdio>

@@ -1,4 +1,4 @@
-// Jamie’s Contact Group, Shanghai 2004, LA 3268
+﻿// LA3268 Jamie's Contact Group
 // 陈锋
 #include<cstdio>
 #include<cstring>

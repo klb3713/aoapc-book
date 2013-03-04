@@ -1,4 +1,4 @@
- // UVa10765	Doves and Bombs
+﻿// UVa10765 Doves and Bombs
 // 陈锋
 #include<cstdio>
 #include<cstring>
