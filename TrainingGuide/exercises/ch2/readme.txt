@@ -18,6 +18,7 @@ Uva10883  Supermean 陈锋
 Uva1510   Neon Sign 陈锋
 UVa11137  Ingenuous Cubrency 刘汝佳（书上例子，包含时间复杂度不同的两个算法）
 UVa11174  Stand in a Line 刘汝佳（书上例子）
+UVa11375  Matches 刘汝佳（书上例子）
 
 数论 （Number Theory）
 UVa11718 Fantasy of a Summation 刘汝佳
