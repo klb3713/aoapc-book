@@ -7,12 +7,6 @@
 #include<algorithm>
 #include<cstdio>
 using namespace std;
-long long N;
-
-int gcd(int a, int b)
-{
-    return b == 0 ? a : gcd(b, a%b);
-}
 
 void gcd(int a, int b, int& d, int& x, int& y)
 {
@@ -36,7 +30,6 @@ void runcase(int t)
     if(x % k != 0) b++;
     int p0, q0;
     gcd(a, b, d, p0, q0);
-    // printf("a = %d, b = %d, d = %d, p0 = %d, q0 = %d\n", a,b,d,p0,q0);
     
     assert(x % d == 0);
     p0 *= (x / d);
