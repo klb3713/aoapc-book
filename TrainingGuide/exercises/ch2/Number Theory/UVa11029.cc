@@ -1,3 +1,5 @@
+// UVa 11029 Leading and Trailing
+// ³Â·æ
 #include <cstdio>
 #include <cstring>
 #include <cmath>

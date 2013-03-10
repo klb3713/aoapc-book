@@ -1,3 +1,5 @@
+// UVa10759 - Dice Throwing
+// ³Â·æ
 #include <cstdio>
 #include <algorithm>
 #include <cstring>

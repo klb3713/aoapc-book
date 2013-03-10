@@ -1,3 +1,5 @@
+// UVa11317 GCD+LCM
+// ³Â·æ
 #include <cstdio>
 #include <algorithm>
 #include <cstring>

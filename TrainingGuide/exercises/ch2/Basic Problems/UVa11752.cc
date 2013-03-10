@@ -1,3 +1,5 @@
+// UVa 11752 The Super Powers
+// ³Â·æ
 #include <cmath>
 #include <vector>
 #include <algorithm>

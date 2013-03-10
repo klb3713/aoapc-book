@@ -1,3 +1,5 @@
+// UVa10491 Cows and Cars
+// ³Â·æ
 #include <cstdio>
 #include <algorithm>
 #include <cstring>

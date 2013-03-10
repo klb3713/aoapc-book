@@ -1,3 +1,5 @@
+// UVa 10368 Euclid's Game
+// ³Â·æ
 #include <cstring>
 #include <iostream>
 #include <algorithm>

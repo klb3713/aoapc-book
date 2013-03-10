@@ -1,3 +1,5 @@
+// UVa 10616 Divisible Group Sums
+// ³Â·æ
 #include <cstdio>
 #include <algorithm>
 #include <cstring>

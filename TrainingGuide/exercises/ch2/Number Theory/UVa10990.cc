@@ -1,3 +1,5 @@
+// UVa10990 Another New Function
+// ³Â·æ
 #include <cstdio>
 #include <algorithm>
 #include <cstring>

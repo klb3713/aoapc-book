@@ -1,3 +1,5 @@
+// UVa10162 Last Digit
+// ³Â·æ
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

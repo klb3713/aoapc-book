@@ -1,3 +1,5 @@
+// UVa11180 Base i-1
+// ³Â·æ
 #include <cstdio>
 #include <algorithm>
 #include <cstring>

@@ -1,3 +1,5 @@
+// UVa 10104  Euclid Problem
+// ³Â·æ
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

@@ -1,3 +1,5 @@
+// UVa 10325 The Lottery
+// ³Â·æ
 #include <cstdio>
 #include <cstring>
 #include <algorithm>
