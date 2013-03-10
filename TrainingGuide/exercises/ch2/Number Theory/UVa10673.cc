@@ -1,5 +1,5 @@
 // UVa10673 Play with Floor and Ceil 
-// ³Â·æ
+// é™ˆé”‹
 #include<cstring>
 #include<iostream>
 #include<cmath>
