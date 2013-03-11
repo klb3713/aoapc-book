@@ -1,4 +1,4 @@
-// UVa10673 Play with Floor and Ceil 
+// UVa10110 Light, more light
 // ³Â·æ
 #include<cstring>
 #include<iostream>
