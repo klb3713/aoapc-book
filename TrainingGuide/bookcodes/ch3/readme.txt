@@ -16,6 +16,11 @@
 例题 9  LA3938    Ray, pass me the dishes
 例题10  UVa11992  Fast Matrix Operations
 
+为了帮助初学者理解，另附：
+
+快速序列操作I： sequence1.cpp
+快速序列操作II：sequence2.cpp
+
 字符串算法（String Algorithms）
 例题11  LA3942    Remember the Word
 例题12  UVa11732  strcmp() Anyone?  注意本题的Trie采用左儿子/右兄弟法实现，值得借鉴

@@ -25,7 +25,7 @@ struct IntervalTree {
   }
 
   // ±ê¼Ç´«µÝ
-  void unmark(int o) {
+  void pushdown(int o) {
     int lc = o*2, rc = o*2+1;
     if(setv[o] >= 0) {
       setv[lc] = setv[rc] = setv[o];
@@ -45,7 +45,7 @@ struct IntervalTree {
       if(op == 1) addv[o] += v;
       else { setv[o] = v; addv[o] = 0; }
     } else {
-      unmark(o);
+      pushdown(o);
       int M = L + (R-L)/2;
       if(y1 <= M) update(lc, L, M); else maintain(lc, L, M);
       if(y2 > M) update(rc, M+1, R); else maintain(rc, M+1, R);
