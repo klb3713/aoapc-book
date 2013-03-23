@@ -1,4 +1,4 @@
-// LA3713 Astronauts
+// LA3713/UVa1391 Astronauts
 // Rujia Liu
 #include<cstdio>
 #include<vector>
@@ -61,7 +61,7 @@ int is_young(int x) {
 TwoSAT solver;
 
 int main() {
-  while(scanf("%d%d", &n, &m) == 2 && n && m) {
+  while(scanf("%d%d", &n, &m) == 2 && n) {
     total_age = 0;
     for(int i = 0; i < n; i++) { scanf("%d", &age[i]); total_age += age[i]; }
 
