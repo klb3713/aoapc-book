@@ -1,4 +1,4 @@
-// LA3401 Colored Cubes: table maker
+// LA3401/UVa1352 Colored Cubes: table maker
 // Rujia Liu
 
 #include<cstdio>
@@ -23,8 +23,8 @@ void enumerate_permutations() {
     if(i == 0) rot(up, p);
     if(i == 1) { rot(left, p); rot(up, p); }
     if(i == 3) { rot(up, p); rot(up, p); }
-    if(i == 4) { rot(left, p); rot(left, p); rot(up, p); }
-    if(i == 5) { rot(left, p); rot(left, p); rot(left, p); rot(up, p); }
+    if(i == 4) { rot(left, p); rot(left, p); rot(left, p); rot(up, p); }
+    if(i == 5) { rot(left, p); rot(left, p); rot(up, p); }
     for(int j = 0; j < 4; j++) {
       printf("{%d, %d, %d, %d, %d, %d},\n", p[0], p[1], p[2], p[3], p[4], p[5]);
       rot(left, p);
