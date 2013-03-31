@@ -3,7 +3,7 @@
 #include<iostream>
 using namespace std;
 
-int buf[10];
+int buf[100];
 
 int next(int n, int k) {
   if(!k) return 0;
