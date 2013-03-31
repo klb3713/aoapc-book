@@ -18,6 +18,7 @@
 
 为了帮助初学者理解，另附：
 
+动态范围最小值：dynamic_rmq.cpp
 快速序列操作I： sequence1.cpp
 快速序列操作II：sequence2.cpp
 
