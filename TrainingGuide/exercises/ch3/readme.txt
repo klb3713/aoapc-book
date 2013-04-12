@@ -16,3 +16,6 @@ UVa11987 Almost Union-Find ³Â·æ
 LA2191   Potentiometers ³Â·æ
 UVa12299 RMQ with shifts ÁõÈê¼Ñ
 LA4730(UVa1455) ¨C Kingdom ³Â·æ
+
+×Ö·û´®Ëã·¨(String Algorithms)
+UVa11488 Hyper Prefix Sets ³Â·æ
