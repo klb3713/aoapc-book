@@ -1,4 +1,4 @@
-// LA5031 Graph and Queries
+// LA5031/UVa1479 Graph and Queries
 // Rujia Liu
 #include<cstdlib>
 
@@ -8,9 +8,6 @@ struct Node {
   int v; // 值
   int s; // 结点总数
   Node(int v):v(v) { ch[0] = ch[1] = NULL; r = rand(); s = 1; }
-  bool operator < (const Node& rhs) const {
-    return r < rhs.r;
-  }
   int cmp(int x) const {
     if (x == v) return -1;
     return x < v ? 0 : 1;
@@ -32,17 +29,18 @@ void insert(Node* &o, int x) {
   else {
     int d = (x < o->v ? 0 : 1); // 不要用cmp函数，因为可能会有相同结点
     insert(o->ch[d], x);
-    if(o->ch[d] > o) rotate(o, d^1);
+    if(o->ch[d]->r > o->r) rotate(o, d^1);
   }
   o->maintain();
 }
 
 void remove(Node* &o, int x) {
   int d = o->cmp(x);
+  int ret = 0;
   if(d == -1) {
     Node* u = o;
     if(o->ch[0] != NULL && o->ch[1] != NULL) {
-      int d2 = (o->ch[0] > o->ch[1] ? 1 : 0);
+      int d2 = (o->ch[0]->r > o->ch[1]->r ? 1 : 0);
       rotate(o, d2); remove(o->ch[d2], x);
     } else {
       if(o->ch[0] == NULL) o = o->ch[1]; else o = o->ch[0];

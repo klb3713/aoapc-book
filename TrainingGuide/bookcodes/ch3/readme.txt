@@ -37,3 +37,7 @@
 例题20  LA5031    Graph and Queries  除了标准程序之外还有一个没有手工释放内存的版本，待程序执行完毕后由操作系统回收内存
 例题21  UVa11922  Permutation Transformer
 例题22  UVa11996  Jewel Magic
+
+为了帮助初学者理解，另附：
+
+名次树：ranktree.cpp
