@@ -19,3 +19,4 @@ LA4730(UVa1455) ¨C Kingdom ³Â·æ
 
 ×Ö·û´®Ëã·¨(String Algorithms)
 UVa11488 Hyper Prefix Sets ³Â·æ
+LA3907(UVa1399) Puzzle ³Â·æ
