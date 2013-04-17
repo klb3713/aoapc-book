@@ -144,7 +144,7 @@ void solve()
             for(int j = 0; j < n; j++)
             {
                 adj = ac.ch[i][j];
-                if(adj && adj != i && !ac.match[adj])
+                if(!ac.match[adj])
                     v.push_back(adj);
             }
         }
