@@ -20,3 +20,5 @@ LA4730(UVa1455) – Kingdom 陈锋
 字符串算法(String Algorithms)
 UVa11488 Hyper Prefix Sets 陈锋
 LA3907(UVa1399) Puzzle 陈锋
+UVa11855 Buzzwords 使用Hash实现的版本 陈锋
+UVa11855 Buzzwords 使用后缀数组实现的版本 陈锋
