@@ -32,6 +32,9 @@
 例题17  UVa11107  Life Forms  倍增法实现的后缀数组，主算法为二分+线性扫描判定
 例题18  LA4513    Stammering Aliens
 
+为了帮助初学者理解，另附“简易搜索引擎”代码（预处理文本串，接受子串查询，可提交到UVa10679）
+版本1：search_engine.cpp
+
 排序二叉树（Binary Search Trees）
 例题19  UVa11020  Efficient Solutions
 例题20  LA5031    Graph and Queries  除了标准程序之外还有一个没有手工释放内存的版本，待程序执行完毕后由操作系统回收内存
