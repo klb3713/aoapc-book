@@ -1,8 +1,8 @@
-// UVa11992 Fast Matrix Operations （书上的版本）
+// UVa11992 Fast Matrix Operations（更易读、更具一般性的版本）
 // Rujia Liu
 // 注意：所有叶子上总是保留set标记而不会被清除（pushdown只能针对非叶结点），因此maintain函数对于叶子来说并不会重复累加addv[o]
-// 本程序在query的时候没有进行标记传递（即pushdown），而是用其他方法完成了查询。虽然执行效率提高，但在一定程度上牺牲了可读性
-// 有兴趣的读者请参考代码仓库中的uva11992b.cpp，那个写法更具一般性，只是执行效率较低
+// 本程序在query的时候进行了标记传递（即pushdown），更具一般性，代码可读性也更强，但执行效率较低
+// 有兴趣的读者请参考代码仓库中的uva11992.cpp，那个写法是书上例题中的代码，避开了query中的标记传递，执行效率比本代码高
 
 #include<cstdio>
 #include<cstring>
@@ -10,8 +10,9 @@
 using namespace std;
 
 const int maxnode = 1<<17;
+const int INF = 1000000000;
 
-int _sum, _min, _max, op, x1, x2, y1, y2, x, v;
+int op, x1, x2, y1, y2, x, v;
 
 struct IntervalTree {
   int sumv[maxnode], minv[maxnode], maxv[maxnode], setv[maxnode], addv[maxnode];
@@ -57,26 +58,28 @@ struct IntervalTree {
     maintain(o, L, R);
   }
 
-  void query(int o, int L, int R, int add) {
-    if(setv[o] >= 0) {
-      int v = setv[o] + add + addv[o];
-      _sum += v * (min(R,y2)-max(L,y1)+1);
-      _min = min(_min, v);
-      _max = max(_max, v);
-    } else if(y1 <= L && y2 >= R) {
-      _sum += sumv[o] + add * (R-L+1);
-      _min = min(_min, minv[o] + add);
-      _max = max(_max, maxv[o] + add);
+  void query(int o, int L, int R, int& ssum, int& smin, int &smax) {
+    int lc = o*2, rc = o*2+1;
+    maintain(o, L, R); // 处理被pushdown下来的标记
+    if(y1 <= L && y2 >= R) {
+      ssum = sumv[o];
+      smin = minv[o];
+      smax = maxv[o];
     } else {
+      pushdown(o);
       int M = L + (R-L)/2;
-      if(y1 <= M) query(o*2, L, M, add + addv[o]);
-      if(y2 > M) query(o*2+1, M+1, R, add + addv[o]);
+      int lsum = 0, lmin = INF, lmax = -INF;
+      int rsum = 0, rmin = INF, rmax = -INF;
+      if(y1 <= M) query(lc, L, M, lsum, lmin, lmax); else maintain(lc, L, M);
+      if(y2 > M) query(rc, M+1, R, rsum, rmin, rmax); else maintain(rc, M+1, R);
+      ssum = lsum + rsum;
+      smin = min(lmin, rmin);
+      smax = max(lmax, rmax);
     }
   }
 };
 
 const int maxr = 20 + 5;
-const int INF = 1000000000;
 
 IntervalTree tree[maxr];
 
@@ -94,9 +97,13 @@ int main() {
         scanf("%d", &v);
         for(x = x1; x <= x2; x++) tree[x].update(1, 1, c);
       } else {
-        _sum = 0; _min = INF; _max = -INF;
-        for(x = x1; x <= x2; x++) tree[x].query(1, 1, c, 0);
-        printf("%d %d %d\n", _sum, _min, _max);
+        int gsum = 0, gmin = INF, gmax = -INF;
+        for(x = x1; x <= x2; x++) {
+          int ssum, smin, smax;
+          tree[x].query(1, 1, c, ssum, smin, smax);
+          gsum += ssum; gmin = min(gmin, smin); gmax = max(gmax, smax);
+        }
+        printf("%d %d %d\n", gsum, gmin, gmax);
       }
     }
   }

@@ -14,7 +14,7 @@
 例题 7  LA4329    Ping pong
 例题 8  UVa11235  Frequent Values
 例题 9  LA3938    Ray, pass me the dishes
-例题10  UVa11992  Fast Matrix Operations
+例题10  UVa11992  Fast Matrix Operations 包含两个版本，即书上的版本和一个更具一般性（但效率较低）的版本
 
 为了帮助初学者理解，另附：
 
