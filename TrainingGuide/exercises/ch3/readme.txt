@@ -22,4 +22,6 @@ UVa11488 Hyper Prefix Sets 陈锋
 LA3907(UVa1399) Puzzle 陈锋
 UVa11855 Buzzwords 使用Hash实现的版本 陈锋
 UVa11855 Buzzwords 使用后缀数组实现的版本 陈锋
+
+二叉搜索树(BST)
 UVa1264(LA4847) Binary Search Tree 陈锋

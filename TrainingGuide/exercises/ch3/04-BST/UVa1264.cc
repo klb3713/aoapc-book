@@ -41,11 +41,10 @@ int64 c[MAXN][MAXN];
 
 void C()  
 {  
-    int i,j;  
-    c[0][0]=1;  
-    for(i=1;i<MAXN;i++)    //自定义  
-        for(j=0;j<=i;j++)  
-            c[i][j]=(j==0)? c[i-1][j] : c[i-1][j]+c[i-1][j-1];    //公式  
+    c[0][0] = 1;
+    for(int i = 1;i < MAXN; i++)
+        for(int j = 0; j <= i; j++)  
+            c[i][j] = (j==0) ? c[i-1][j] : c[i-1][j] + c[i-1][j-1];
 }  
 
 Node* newNode(int v)
