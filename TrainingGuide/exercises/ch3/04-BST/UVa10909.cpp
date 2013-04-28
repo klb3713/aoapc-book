@@ -1,12 +1,15 @@
-// Rank Tree
+// UVa10909 Lucky Number
 // Rujia Liu
-// 输入格式：
-// m     操作有m个
-// 1 x   插入元素x
-// 2 x   删除元素x。如果成功，输入1，否则输出0
-// 3 k   输出第k小元素。k=1为最小元素
-// 4 x   输出值x的“名次”，即比x小的结点个数加1
-#include<cstdlib>
+// 思路详见：http://www.algorithmist.com/index.php/User:Sweepline/UVa_10909.cpp
+// 本程序只是Treap的应用展示，本题更快的方法是用静态BST
+
+#include <cstring>
+#include <cstdio>
+#include <algorithm>
+
+using namespace std;
+
+const int maxnode = 600000; // 实际有571458个结点
 
 struct Node {
   Node *ch[2]; // 左右子树
@@ -23,7 +26,15 @@ struct Node {
     if(ch[0] != NULL) s += ch[0]->s;
     if(ch[1] != NULL) s += ch[1]->s;
   }
-};
+} pool[maxnode]; // 结点池
+
+int pool_head;
+
+inline Node* new_node(int x) {
+  Node* p = &pool[pool_head++];
+  p->v = x;
+  return p;
+}
 
 void rotate(Node* &o, int d) {
   Node* k = o->ch[d^1]; o->ch[d^1] = k->ch[d]; k->ch[d] = o; 
@@ -31,7 +42,7 @@ void rotate(Node* &o, int d) {
 }
 
 void insert(Node* &o, int x) {
-  if(o == NULL) o = new Node(x);
+  if(o == NULL) o = new_node(x);
   else {
     int d = (x < o->v ? 0 : 1); // 不要用cmp函数，因为可能会有相同结点
     insert(o->ch[d], x);
@@ -56,7 +67,6 @@ void remove(Node* &o, int x) {
       rotate(o, d2); remove(o->ch[d2], x);
     } else {
       if(o->ch[0] == NULL) o = o->ch[1]; else o = o->ch[0];
-      delete u;
     }
   } else
     remove(o->ch[d], x);
@@ -78,24 +88,52 @@ int rank(Node* o, int x) {
   return rank(o->ch[1], x) + (o->ch[0] == NULL ? 0 : o->ch[0]->s) + 1;
 }
 
-#include<cstdio>
-const int INF = 1000000000;
+//////// 题目相关
+
+const int maxn = 2000000;
+int lucky[maxn + 10];
+
+void dfs(Node* n) {
+  if(n == NULL) return;
+  lucky[n->v] = 1;
+  dfs(n->ch[0]);
+  dfs(n->ch[1]);
+}
 
 int main() {
-  int m, c, v;
-  Node* root = new Node(INF);
-  while(scanf("%d", &m) == 1) {
-    while(m--) {
-      scanf("%d%d", &c, &v);
-      if(c == 1) insert(root, v);
-      else if(c == 2) {
-        Node* o = find(root, v);
-        printf("%d\n", o == NULL ? 0 : 1);
-        if(o != NULL) remove(root, v);
+  pool_head = 0;
+  Node* root = NULL;
+  memset(lucky, 0, sizeof(lucky));
+
+  // 插入初始结点，直接跳过前三轮会被删除的结点
+  for(int i = 1, k = 1; k <= maxn; k += 6) {
+    if(i % 7 != 0) insert(root, k); i++;
+    if(i % 7 != 0) insert(root, k+2); i++;
+  }
+
+  // 删除操作从第四轮开始执行
+  for(int i = 4; i <= root->s; i++) {
+    int step = kth(root, i);
+    if(step > root->s) break;
+    for(int j = step; j <= root->s; j += step-1)
+      remove(root, kth(root, j));
+  }
+
+  // 标记lucky number
+  dfs(root);
+
+  // 回答询问
+  int n;
+  while(scanf("%d", &n) == 1) {
+    int ok = 0;
+    if(n % 2 == 0) { // 偶数才可能有解
+      for(int x = n/2; x > 0; x--) if(lucky[x] && lucky[n-x]) {
+        printf("%d is the sum of %d and %d.\n", n, x, n-x);
+        ok = 1;
+        break;
       }
-      else if(c == 3) printf("%d\n", kth(root, v));
-      else if(c == 4) printf("%d\n", rank(root, v));
     }
+    if(!ok) printf("%d is not the sum of two luckies!\n", n);
   }
   return 0;
 }
