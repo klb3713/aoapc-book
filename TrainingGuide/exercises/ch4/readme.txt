@@ -7,6 +7,7 @@
 »ù´¡Á·Ï°£¨Basic Problems£©
 UVa11437 Triangle Fun ³Â·æ
 UVa11646 Athletics Track ÁõÈê¼Ñ
+UVa11800 Determine the Shape ³Â·æ
 UVa11817 Tunnelling the Earth ÁõÈê¼Ñ
 
 ¶şÎ¬¼¸ºÎ¼ÆËã£¨Geometric Computations in 2D£©

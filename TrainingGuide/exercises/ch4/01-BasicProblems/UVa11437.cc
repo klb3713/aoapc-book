@@ -21,6 +21,7 @@ typedef Point Vector;
 Vector operator + (const Vector& A, const Vector& B) { return Vector(A.x+B.x, A.y+B.y); }
 Vector operator - (const Point& A, const Point& B) { return Vector(A.x-B.x, A.y-B.y); }
 Vector operator * (const Vector& A, double p) { return Vector(A.x*p, A.y*p); }
+Vector operator / (Vector A, double p) { return Vector(A.x/p, A.y/p); }
 double Dot(const Vector& A, const Vector& B) { return A.x*B.x + A.y*B.y; }
 double Length(const Vector& A) { return sqrt(Dot(A, A)); }
 double Angle(const Vector& A, const Vector& B) { return acos(Dot(A, B) / Length(A) / Length(B)); }
@@ -57,10 +58,7 @@ int readint()
 
 Point getF(const Point& A, const Point& B)
 {
-    Point v = B - A;
-    v.x = v.x / 3;
-    v.y = v.y / 3;
-    return A + v;
+    return A + (B - A) / 3;
 }
 
 // 线段 [A, A0]和[B, B0]的交点
