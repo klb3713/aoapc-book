@@ -9,6 +9,8 @@ UVa11437 Triangle Fun ³Â·æ
 UVa11646 Athletics Track ÁõÈê¼Ñ
 UVa11800 Determine the Shape ³Â·æ
 UVa11817 Tunnelling the Earth ÁõÈê¼Ñ
+UVa12300 Smallest Regular Polygon ³Â·æ
+UVa12301 An Angular Puzzle ³Â·æ
 
 ¶şÎ¬¼¸ºÎ¼ÆËã£¨Geometric Computations in 2D£©
 UVa10674 Tangents ÁõÈê¼Ñ
