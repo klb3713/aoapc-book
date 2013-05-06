@@ -5,6 +5,8 @@
 注意：有些题目并没有在书中出现，但是仍然有一定的启发意义，所以一并放在这里，供读者参考。
 
 基础练习（Basic Problems）
+UVa10347 Medians 陈锋
+UVa10522 Height to Area 陈锋
 UVa11437 Triangle Fun 陈锋
 UVa11646 Athletics Track 刘汝佳
 UVa11800 Determine the Shape 陈锋
