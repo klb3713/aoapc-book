@@ -7,6 +7,7 @@
 »ù´¡Á·Ï°£¨Basic Problems£©
 UVa10347 Medians ³Â·æ
 UVa10522 Height to Area ³Â·æ
+UVa10566 Crossed Ladders ³Â·æ
 UVa11437 Triangle Fun ³Â·æ
 UVa11646 Athletics Track ÁõÈê¼Ñ
 UVa11800 Determine the Shape ³Â·æ
