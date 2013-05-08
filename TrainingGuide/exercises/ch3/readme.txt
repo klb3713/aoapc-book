@@ -25,3 +25,4 @@ UVa11855 Buzzwords 使用后缀数组实现的版本 陈锋
 
 二叉搜索树(BST)
 UVa1264(LA4847) Binary Search Tree 陈锋
+UVa10909 Lucky Number 刘汝佳

@@ -19,6 +19,7 @@ Uva10496  Collecting Beepers ³Â·æ
 Uva11236  Grocery store ³Â·æ
 Uva387    A Puzzling Problem ³Â·æ
 UVa529    Addition Chains ³Â·æ
+UVa1509   Leet ÁõÈê¼Ñ
 
 ¸ßĞ§Ëã·¨Éè¼Æ (Designing Efficient Algorithms)
 Uva10125  Sumsets ³Â·æ
@@ -28,7 +29,7 @@ Uva10827  Maximum sum on a torus ³Â·æ
 Uva10954  Add All ³Â·æ
 Uva11054  Wine trading in Gergovia ³Â·æ
 Uva11495  Bubbles and Buckets ³Â·æ
-UVa11589 Save the President ÁõÈê¼Ñ
+UVa11589  Save the President ÁõÈê¼Ñ
 
 ¶¯Ì¬¹æ»® (Dynamic Programming)
 Uva10051  Tower of Cubes ³Â·æ
