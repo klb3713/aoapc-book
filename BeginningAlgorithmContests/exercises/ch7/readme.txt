@@ -22,7 +22,11 @@ UVa331   Mapping the Swaps
 UVa539   The Settlers of Catan
 UVa301   Transportation
 UVa208   Firetruck
+UVa193   Graph Coloring
 
 回溯法（提高）
 UVa387   A Puzzling Problem
 UVa565   Pizza Anyone?
+
+状态空间搜索
+UVa10422 Knights in FEN 采用IDA*算法而非BFS

@@ -9,3 +9,4 @@
 ×Ö·û´®
 UVa10188 Automated Judge Script
 UVa10252 Common Permutation
+UVa10361 Automatic Poetry
