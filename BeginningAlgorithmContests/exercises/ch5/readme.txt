@@ -7,6 +7,12 @@
 所有代码中都写了题目大意。
 
 字符串
+UVa401   Palindromes
+UVa10361 Automatic Poetry
+UVa537   Artificial Intelligence?
+UVa409   Excuses, Excuses!
+UVa10815 Andy's First Dictionary
+UVa644   Immediate Decodability
+UVa10115 Automatic Editing
 UVa10188 Automated Judge Script
 UVa10252 Common Permutation
-UVa10361 Automatic Poetry

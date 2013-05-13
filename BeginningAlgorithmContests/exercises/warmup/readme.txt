@@ -15,3 +15,4 @@ UVa445   Marvelous Mazes
 UVa488   Triangle Wave
 UVa489   Hangman Judge
 UVa694   The Collatz Sequence
+UVa457   Linear Cellular Automata
