@@ -1,19 +1,23 @@
-¡¶Ëã·¨¾ºÈüÈëÃÅ¾­µä¡ª¡ªÑµÁ·Ö¸ÄÏ¡·´úÂë²Ö¿â
+ã€Šç®—æ³•ç«èµ›å…¥é—¨ç»å…¸â€”â€”è®­ç»ƒæŒ‡å—ã€‹ä»£ç ä»“åº“
 
-µÚËÄÕÂÏ°Ìâ´úÂë
+ç¬¬å››ç« ä¹ é¢˜ä»£ç 
 
-×¢Òâ£ºÓĞĞ©ÌâÄ¿²¢Ã»ÓĞÔÚÊéÖĞ³öÏÖ£¬µ«ÊÇÈÔÈ»ÓĞÒ»¶¨µÄÆô·¢ÒâÒå£¬ËùÒÔÒ»²¢·ÅÔÚÕâÀï£¬¹©¶ÁÕß²Î¿¼¡£
+æ³¨æ„ï¼šæœ‰äº›é¢˜ç›®å¹¶æ²¡æœ‰åœ¨ä¹¦ä¸­å‡ºç°ï¼Œä½†æ˜¯ä»ç„¶æœ‰ä¸€å®šçš„å¯å‘æ„ä¹‰ï¼Œæ‰€ä»¥ä¸€å¹¶æ”¾åœ¨è¿™é‡Œï¼Œä¾›è¯»è€…å‚è€ƒã€‚
 
-»ù´¡Á·Ï°£¨Basic Problems£©
-UVa10347 Medians ³Â·æ
-UVa10522 Height to Area ³Â·æ
-UVa10566 Crossed Ladders ³Â·æ
-UVa11437 Triangle Fun ³Â·æ
-UVa11646 Athletics Track ÁõÈê¼Ñ
-UVa11800 Determine the Shape ³Â·æ
-UVa11817 Tunnelling the Earth ÁõÈê¼Ñ
-UVa12300 Smallest Regular Polygon ³Â·æ
-UVa12301 An Angular Puzzle ³Â·æ
+åŸºç¡€ç»ƒä¹ ï¼ˆBasic Problemsï¼‰
+UVa10347 Medians é™ˆé”‹
+UVa10522 Height to Area é™ˆé”‹
+UVa10566 Crossed Ladders é™ˆé”‹
+UVa11437 Triangle Fun é™ˆé”‹
+UVa11646 Athletics Track åˆ˜æ±ä½³
+UVa11800 Determine the Shape é™ˆé”‹
+UVa11817 Tunnelling the Earth åˆ˜æ±ä½³
+UVa12300 Smallest Regular Polygon é™ˆé”‹
+UVa12301 An Angular Puzzle é™ˆé”‹
 
-¶şÎ¬¼¸ºÎ¼ÆËã£¨Geometric Computations in 2D£©
-UVa10674 Tangents ÁõÈê¼Ñ
+äºŒç»´å‡ ä½•è®¡ç®—ï¼ˆGeometric Computations in 2Dï¼‰
+UVa10674 Tangents åˆ˜æ±ä½³
+UVa10075 Airlines    
+UVa10585 Center of Symmetry
+UVa10969 Sweet Dream
+UVa11928 åˆ˜æ±ä½³

@@ -1,45 +1,45 @@
-¡¶Ëã·¨¾ºÈüÈëÃÅ¾­µä¡ª¡ªÑµÁ·Ö¸ÄÏ¡·´úÂë²Ö¿â
+ã€Šç®—æ³•ç«èµ›å…¥é—¨ç»å…¸â€”â€”è®­ç»ƒæŒ‡å—ã€‹ä»£ç ä»“åº“
 
-µÚÒ»ÕÂÏ°Ìâ´úÂë
+ç¬¬ä¸€ç« ä¹ é¢˜ä»£ç 
 
-×¢Òâ£ºÓĞĞ©ÌâÄ¿²¢Ã»ÓĞÔÚÊéÖĞ³öÏÖ£¬µ«ÊÇÈÔÈ»ÓĞÒ»¶¨µÄÆô·¢ÒâÒå£¬ËùÒÔÒ»²¢·ÅÔÚÕâÀï£¬¹©¶ÁÕß²Î¿¼¡£
+æ³¨æ„ï¼šæœ‰äº›é¢˜ç›®å¹¶æ²¡æœ‰åœ¨ä¹¦ä¸­å‡ºç°ï¼Œä½†æ˜¯ä»ç„¶æœ‰ä¸€å®šçš„å¯å‘æ„ä¹‰ï¼Œæ‰€ä»¥ä¸€å¹¶æ”¾åœ¨è¿™é‡Œï¼Œä¾›è¯»è€…å‚è€ƒã€‚
 
-ÎÊÌâÇó½â²ßÂÔ (General Problem Solving Techniques)
-Uva10340  All in All ³Â·æ
-Uva10382  Watering Grass ³Â·æ
-Uva10706  Number Sequence ³Â·æ
-UVa10718  Bit Mask ³Â·æ
-Uva10905  Children's Game ³Â·æ
-Uva11100  The Trip, 2007 ³Â·æ
+é—®é¢˜æ±‚è§£ç­–ç•¥ (General Problem Solving Techniques)
+Uva10340  All in All é™ˆé”‹
+Uva10382  Watering Grass é™ˆé”‹
+Uva10706  Number Sequence é™ˆé”‹
+UVa10718  Bit Mask é™ˆé”‹
+Uva10905  Children's Game é™ˆé”‹
+Uva11100  The Trip, 2007 é™ˆé”‹
 
-±©Á¦·¨ (Brute Force)
-Uva10085  The most distant state ³Â·æ
-Uva10123  No Tipping ³Â·æ
-Uva10496  Collecting Beepers ³Â·æ
-Uva11236  Grocery store ³Â·æ
-Uva387    A Puzzling Problem ³Â·æ
-UVa529    Addition Chains ³Â·æ
-UVa1509   Leet ÁõÈê¼Ñ
+æš´åŠ›æ³• (Brute Force)
+Uva10085  The most distant state é™ˆé”‹
+Uva10123  No Tipping é™ˆé”‹
+Uva10496  Collecting Beepers é™ˆé”‹
+Uva11236  Grocery store é™ˆé”‹
+Uva387    A Puzzling Problem é™ˆé”‹
+UVa529    Addition Chains é™ˆé”‹
+UVa1509   Leet åˆ˜æ±ä½³
 
-¸ßĞ§Ëã·¨Éè¼Æ (Designing Efficient Algorithms)
-Uva10125  Sumsets ³Â·æ
-Uva10391  Compound Words ³Â·æ
-Uva10763  Foreign Exchange ³Â·æ
-Uva10827  Maximum sum on a torus ³Â·æ
-Uva10954  Add All ³Â·æ
-Uva11054  Wine trading in Gergovia ³Â·æ
-Uva11495  Bubbles and Buckets ³Â·æ
-UVa11589  Save the President ÁõÈê¼Ñ
+é«˜æ•ˆç®—æ³•è®¾è®¡ (Designing Efficient Algorithms)
+Uva10125  Sumsets é™ˆé”‹
+Uva10391  Compound Words é™ˆé”‹
+Uva10763  Foreign Exchange é™ˆé”‹
+Uva10827  Maximum sum on a torus é™ˆé”‹
+Uva10954  Add All é™ˆé”‹
+Uva11054  Wine trading in Gergovia é™ˆé”‹
+Uva11495  Bubbles and Buckets é™ˆé”‹
+UVa11589  Save the President åˆ˜æ±ä½³
 
-¶¯Ì¬¹æ»® (Dynamic Programming)
-Uva10051  Tower of Cubes ³Â·æ
-Uva10100  Longest Match ³Â·æ
-Uva10130  SuperSale ³Â·æ
-Uva10243  Fire! Fire!! Fire!!! ³Â·æ
-Uva10306  e-Coins ³Â·æ
-Uva10400  Game Show Math ³Â·æ
-Uva10534  Wavio Sequence ³Â·æ
-Uva10651  Pebble Solitaire ³Â·æ
-Uva10700  Camel trading ³Â·æ
-Uva10817  Headmaster's Headache ³Â·æ
-Uva11081  Strings ³Â·æ
+åŠ¨æ€è§„åˆ’ (Dynamic Programming)
+Uva10051  Tower of Cubes é™ˆé”‹
+Uva10100  Longest Match é™ˆé”‹
+Uva10130  SuperSale é™ˆé”‹
+Uva10243  Fire! Fire!! Fire!!! é™ˆé”‹
+Uva10306  e-Coins é™ˆé”‹
+Uva10400  Game Show Math é™ˆé”‹
+Uva10534  Wavio Sequence é™ˆé”‹
+Uva10651  Pebble Solitaire é™ˆé”‹
+Uva10700  Camel trading é™ˆé”‹
+Uva10817  Headmaster's Headache é™ˆé”‹
+Uva11081  Strings é™ˆé”‹

@@ -1,29 +1,29 @@
-¡¶Ëã·¨¾ºÈüÈëÃÅ¾­µä¡ª¡ªÑµÁ·Ö¸ÄÏ¡·´úÂë²Ö¿â
+ã€Šç®—æ³•ç«èµ›å…¥é—¨ç»å…¸â€”â€”è®­ç»ƒæŒ‡å—ã€‹ä»£ç ä»“åº“
 
-µÚ¶şÕÂÏ°Ìâ´úÂë
+ç¬¬äºŒç« ä¹ é¢˜ä»£ç 
 
-×¢Òâ£ºÓĞĞ©ÌâÄ¿²¢Ã»ÓĞÔÚÊéÖĞ³öÏÖ£¬µ«ÊÇÈÔÈ»ÓĞÒ»¶¨µÄÆô·¢ÒâÒå£¬ËùÒÔÒ»²¢·ÅÔÚÕâÀï£¬¹©¶ÁÕß²Î¿¼¡£
+æ³¨æ„ï¼šæœ‰äº›é¢˜ç›®å¹¶æ²¡æœ‰åœ¨ä¹¦ä¸­å‡ºç°ï¼Œä½†æ˜¯ä»ç„¶æœ‰ä¸€å®šçš„å¯å‘æ„ä¹‰ï¼Œæ‰€ä»¥ä¸€å¹¶æ”¾åœ¨è¿™é‡Œï¼Œä¾›è¯»è€…å‚è€ƒã€‚
 
-»ù´¡Á·Ï° £¨Basic Problems£©
-UVa11388 GCD LCM ÁõÈê¼Ñ
-UVa11526 H(n) ÁõÈê¼Ñ
-UVa11609 Teams ÁõÈê¼Ñ
+åŸºç¡€ç»ƒä¹  ï¼ˆBasic Problemsï¼‰
+UVa11388 GCD LCM åˆ˜æ±ä½³
+UVa11526 H(n) åˆ˜æ±ä½³
+UVa11609 Teams åˆ˜æ±ä½³
 
-×éºÏ¼ÆÊı £¨Counting£©
-UVa10079  Pizza Cutting ³Â·æ
-UVa10081  Tight words ³Â·æ
-UVa10157  Expressions ³Â·æ
-UVa10497  Sweet Child Makes Trouble ³Â·æ
-Uva10883  Supermean ³Â·æ
-Uva1510   Neon Sign ³Â·æ
-UVa11137  Ingenuous Cubrency ÁõÈê¼Ñ£¨ÊéÉÏÀı×Ó£¬°üº¬Ê±¼ä¸´ÔÓ¶È²»Í¬µÄÁ½¸öËã·¨£©
-UVa11174  Stand in a Line ÁõÈê¼Ñ£¨ÊéÉÏÀı×Ó£©
-UVa11375  Matches ÁõÈê¼Ñ£¨ÊéÉÏÀı×Ó£©
+ç»„åˆè®¡æ•° ï¼ˆCountingï¼‰
+UVa10079  Pizza Cutting é™ˆé”‹
+UVa10081  Tight words é™ˆé”‹
+UVa10157  Expressions é™ˆé”‹
+UVa10497  Sweet Child Makes Trouble é™ˆé”‹
+Uva10883  Supermean é™ˆé”‹
+Uva1510   Neon Sign é™ˆé”‹
+UVa11137  Ingenuous Cubrency åˆ˜æ±ä½³ï¼ˆä¹¦ä¸Šä¾‹å­ï¼ŒåŒ…å«æ—¶é—´å¤æ‚åº¦ä¸åŒçš„ä¸¤ä¸ªç®—æ³•ï¼‰
+UVa11174  Stand in a Line åˆ˜æ±ä½³ï¼ˆä¹¦ä¸Šä¾‹å­ï¼‰
+UVa11375  Matches åˆ˜æ±ä½³ï¼ˆä¹¦ä¸Šä¾‹å­ï¼‰
 
-ÊıÂÛ £¨Number Theory£©
-UVa11718 Fantasy of a Summation ÁõÈê¼Ñ
-UVa11440 Help Mr. Tomisu ÁõÈê¼Ñ
+æ•°è®º ï¼ˆNumber Theoryï¼‰
+UVa11718 Fantasy of a Summation åˆ˜æ±ä½³
+UVa11440 Help Mr. Tomisu åˆ˜æ±ä½³
 
-¸ÅÂÊ £¨Probability£©
-UVa11637 Garbage Remembering Exam ÁõÈê¼Ñ
-UVa11971 Polygon ÁõÈê¼Ñ
+æ¦‚ç‡ ï¼ˆProbabilityï¼‰
+UVa11637 Garbage Remembering Exam åˆ˜æ±ä½³
+UVa11971 Polygon åˆ˜æ±ä½³

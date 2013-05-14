@@ -1,9 +1,9 @@
-¡¶Ëã·¨¾ºÈüÈëÃÅ¾­µä¡ª¡ªÑµÁ·Ö¸ÄÏ¡·´úÂë²Ö¿â
+ã€Šç®—æ³•ç«žèµ›å…¥é—¨ç»å…¸â€”â€”è®­ç»ƒæŒ‡å—ã€‹ä»£ç ä»“åº“
 
-µÚÁùÕÂÏ°Ìâ´úÂë
+ç¬¬å…­ç« ä¹ é¢˜ä»£ç 
 
-×¢Òâ£ºÓÐÐ©ÌâÄ¿²¢Ã»ÓÐÔÚÊéÖÐ³öÏÖ£¬µ«ÊÇÈÔÈ»ÓÐÒ»¶¨µÄÆô·¢ÒâÒå£¬ËùÒÔÒ»²¢·ÅÔÚÕâÀï£¬¹©¶ÁÕß²Î¿¼¡£
+æ³¨æ„ï¼šæœ‰äº›é¢˜ç›®å¹¶æ²¡æœ‰åœ¨ä¹¦ä¸­å‡ºçŽ°ï¼Œä½†æ˜¯ä»ç„¶æœ‰ä¸€å®šçš„å¯å‘æ„ä¹‰ï¼Œæ‰€ä»¥ä¸€å¹¶æ”¾åœ¨è¿™é‡Œï¼Œä¾›è¯»è€…å‚è€ƒã€‚
 
-´úÂë×éÖ¯Óëµ÷ÊÔ£¨Writing and Debugging Complex Codes£©
+ä»£ç ç»„ç»‡ä¸Žè°ƒè¯•ï¼ˆWriting and Debugging Complex Codesï¼‰
 
-LA2727/UVa1024 A Linking Loader ÁõÈê¼Ñ
+LA2727/UVa1024 A Linking Loader åˆ˜æ±ä½³

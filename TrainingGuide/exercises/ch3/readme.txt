@@ -1,28 +1,28 @@
-¡¶Ëã·¨¾ºÈüÈëÃÅ¾­µä¡ª¡ªÑµÁ·Ö¸ÄÏ¡·´úÂë²Ö¿â
+ã€Šç®—æ³•ç«èµ›å…¥é—¨ç»å…¸â€”â€”è®­ç»ƒæŒ‡å—ã€‹ä»£ç ä»“åº“
 
-µÚÈıÕÂÏ°Ìâ´úÂë
+ç¬¬ä¸‰ç« ä¹ é¢˜ä»£ç 
 
-×¢Òâ£ºÓĞĞ©ÌâÄ¿²¢Ã»ÓĞÔÚÊéÖĞ³öÏÖ£¬µ«ÊÇÈÔÈ»ÓĞÒ»¶¨µÄÆô·¢ÒâÒå£¬ËùÒÔÒ»²¢·ÅÔÚÕâÀï£¬¹©¶ÁÕß²Î¿¼¡£
+æ³¨æ„ï¼šæœ‰äº›é¢˜ç›®å¹¶æ²¡æœ‰åœ¨ä¹¦ä¸­å‡ºç°ï¼Œä½†æ˜¯ä»ç„¶æœ‰ä¸€å®šçš„å¯å‘æ„ä¹‰ï¼Œæ‰€ä»¥ä¸€å¹¶æ”¾åœ¨è¿™é‡Œï¼Œä¾›è¯»è€…å‚è€ƒã€‚
 
-»ù´¡Êı¾İ½á¹¹£¨Fundamental Data Structures£©
+åŸºç¡€æ•°æ®ç»“æ„ï¼ˆFundamental Data Structuresï¼‰
 
-UVa11988 Broken Keyboard (a.k.a. Beiju Text) ³Â·æ
-UVa11136 Hoax or what ³Â·æ
-UVa10895 Matrix Transpose ³Â·æ
-UVa11987 Almost Union-Find ³Â·æ
+UVa11988 Broken Keyboard (a.k.a. Beiju Text) é™ˆé”‹
+UVa11136 Hoax or what é™ˆé”‹
+UVa10895 Matrix Transpose é™ˆé”‹
+UVa11987 Almost Union-Find é™ˆé”‹
 
-Çø¼äĞÅÏ¢Î¬»¤£¨Maintaining Interval Data£©
+åŒºé—´ä¿¡æ¯ç»´æŠ¤ï¼ˆMaintaining Interval Dataï¼‰
 
-LA2191   Potentiometers ³Â·æ
-UVa12299 RMQ with shifts ÁõÈê¼Ñ
-LA4730(UVa1455) ¨C Kingdom ³Â·æ
+LA2191   Potentiometers é™ˆé”‹
+UVa12299 RMQ with shifts åˆ˜æ±ä½³
+LA4730(UVa1455) â€“ Kingdom é™ˆé”‹
 
-×Ö·û´®Ëã·¨(String Algorithms)
-UVa11488 Hyper Prefix Sets ³Â·æ
-LA3907(UVa1399) Puzzle ³Â·æ
-UVa11855 Buzzwords Ê¹ÓÃHashÊµÏÖµÄ°æ±¾ ³Â·æ
-UVa11855 Buzzwords Ê¹ÓÃºó×ºÊı×éÊµÏÖµÄ°æ±¾ ³Â·æ
+å­—ç¬¦ä¸²ç®—æ³•(String Algorithms)
+UVa11488 Hyper Prefix Sets é™ˆé”‹
+LA3907(UVa1399) Puzzle é™ˆé”‹
+UVa11855 Buzzwords ä½¿ç”¨Hashå®ç°çš„ç‰ˆæœ¬ é™ˆé”‹
+UVa11855 Buzzwords ä½¿ç”¨åç¼€æ•°ç»„å®ç°çš„ç‰ˆæœ¬ é™ˆé”‹
 
-¶ş²æËÑË÷Ê÷(BST)
-UVa1264(LA4847) Binary Search Tree ³Â·æ
-UVa10909 Lucky Number ÁõÈê¼Ñ
+äºŒå‰æœç´¢æ ‘(BST)
+UVa1264(LA4847) Binary Search Tree é™ˆé”‹
+UVa10909 Lucky Number åˆ˜æ±ä½³

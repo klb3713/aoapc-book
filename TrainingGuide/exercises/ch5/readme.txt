@@ -1,25 +1,25 @@
-¡¶Ëã·¨¾ºÈüÈëÃÅ¾­µä¡ª¡ªÑµÁ·Ö¸ÄÏ¡·´úÂë²Ö¿â
+ã€Šç®—æ³•ç«èµ›å…¥é—¨ç»å…¸â€”â€”è®­ç»ƒæŒ‡å—ã€‹ä»£ç ä»“åº“
 
-µÚÎåÕÂÏ°Ìâ´úÂë
+ç¬¬äº”ç« ä¹ é¢˜ä»£ç 
 
-×¢Òâ£ºÓĞĞ©ÌâÄ¿²¢Ã»ÓĞÔÚÊéÖĞ³öÏÖ£¬µ«ÊÇÈÔÈ»ÓĞÒ»¶¨µÄÆô·¢ÒâÒå£¬ËùÒÔÒ»²¢·ÅÔÚÕâÀï£¬¹©¶ÁÕß²Î¿¼¡£
+æ³¨æ„ï¼šæœ‰äº›é¢˜ç›®å¹¶æ²¡æœ‰åœ¨ä¹¦ä¸­å‡ºç°ï¼Œä½†æ˜¯ä»ç„¶æœ‰ä¸€å®šçš„å¯å‘æ„ä¹‰ï¼Œæ‰€ä»¥ä¸€å¹¶æ”¾åœ¨è¿™é‡Œï¼Œä¾›è¯»è€…å‚è€ƒã€‚
 
-LA2197    Paint the Roads ³Â·æ
-LA2796    Concert Hall Schedule ³Â·æ
-LA3268    Jamie's Contact Group ³Â·æ
-LA3276    The Great Wall Game ³Â·æ
-LA3353    Optimal Bus Route Design ³Â·æ
-LA3486    Cells ³Â·æ£¬ÁõÈê¼Ñ
-LA3487    Duopoly ³Â·æ
-LA3887    Slim Span ³Â·æ
-LA3972    March of the Penguins ³Â·æ
-LA4288    Cat vs. Dog ³Â·æ
-LA5095    Transportation ³Â·æ
-UVa10269  Adventure of Super Mario ³Â·æ
-UVa10600  ACM Contest and Blackout ³Â·æ
-UVa10603  Fill ³Â·æ
-UVa10765  Doves and Bombs ³Â·æ
-UVa10806  Dijkstra, Dijkstra ³Â·æ
-UVa11082  Matrix Decompressing ³Â·æ
-UVa11294  Wedding ³Â·æ
-UVa11396  Claw Decomposition ³Â·æ
+LA2197    Paint the Roads é™ˆé”‹
+LA2796    Concert Hall Schedule é™ˆé”‹
+LA3268    Jamie's Contact Group é™ˆé”‹
+LA3276    The Great Wall Game é™ˆé”‹
+LA3353    Optimal Bus Route Design é™ˆé”‹
+LA3486    Cells é™ˆé”‹ï¼Œåˆ˜æ±ä½³
+LA3487    Duopoly é™ˆé”‹
+LA3887    Slim Span é™ˆé”‹
+LA3972    March of the Penguins é™ˆé”‹
+LA4288    Cat vs. Dog é™ˆé”‹
+LA5095    Transportation é™ˆé”‹
+UVa10269  Adventure of Super Mario é™ˆé”‹
+UVa10600  ACM Contest and Blackout é™ˆé”‹
+UVa10603  Fill é™ˆé”‹
+UVa10765  Doves and Bombs é™ˆé”‹
+UVa10806  Dijkstra, Dijkstra é™ˆé”‹
+UVa11082  Matrix Decompressing é™ˆé”‹
+UVa11294  Wedding é™ˆé”‹
+UVa11396  Claw Decomposition é™ˆé”‹
