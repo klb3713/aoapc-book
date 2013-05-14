@@ -17,7 +17,8 @@ UVa12301 An Angular Puzzle 陈锋
 
 二维几何计算（Geometric Computations in 2D）
 UVa10674 Tangents 刘汝佳
-UVa10075 Airlines    
-UVa10585 Center of Symmetry
-UVa10969 Sweet Dream
-UVa11928 刘汝佳
+UVa10075 Airlines 陈锋
+UVa10556 Biometrics 陈锋
+UVa10585 Center of Symmetry 陈锋
+UVa10969 Sweet Dream 陈锋
+UVa11928 The Busy Dog 刘汝佳
