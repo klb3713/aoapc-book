@@ -7,7 +7,7 @@
 int left[] = {4, 0, 2, 3, 5, 1};
 int up[] = {2, 1, 5, 0, 4, 3};
 
-// °´ÕÕÅÅÁĞTĞı×ª×ËÌ¬p
+// æŒ‰ç…§æ’åˆ—Tæ—‹è½¬å§¿æ€p
 void rot(int* T, int* p) {
   int q[6];
   memcpy(q, p, sizeof(q));

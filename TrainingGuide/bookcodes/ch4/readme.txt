@@ -1,28 +1,28 @@
-¡¶Ëã·¨¾ºÈüÈëÃÅ¾­µä¡ª¡ªÑµÁ·Ö¸ÄÏ¡·´úÂë²Ö¿â
+ã€Šç®—æ³•ç«èµ›å…¥é—¨ç»å…¸â€”â€”è®­ç»ƒæŒ‡å—ã€‹ä»£ç ä»“åº“
 
-µÚËÄÕÂÀıÌâ´úÂë
+ç¬¬å››ç« ä¾‹é¢˜ä»£ç 
 
-¶şÎ¬¼¸ºÎ¼ÆËã (Geometric Computations in 2D)
-ÀıÌâ 1  UVa11178  Morley's Theorem
-ÀıÌâ 2  LA3263    That Nice Euler Circuit
-ÀıÌâ 3  UVa11796  Dog Distance
-ÀıÌâ 4  UVa12304  2D Geometry 110 in 1!
-ÀıÌâ 5  LA2572    Viva Confetti  ºÍÊéÉÏµÄ½â·¨ÂÔÓĞ²»Í¬£¬Çë×ĞÏ¸ÔÄ¶Á´úÂëÖĞµÄ×¢ÊÍ
+äºŒç»´å‡ ä½•è®¡ç®— (Geometric Computations in 2D)
+ä¾‹é¢˜ 1  UVa11178  Morley's Theorem
+ä¾‹é¢˜ 2  LA3263    That Nice Euler Circuit
+ä¾‹é¢˜ 3  UVa11796  Dog Distance
+ä¾‹é¢˜ 4  UVa12304  2D Geometry 110 in 1!
+ä¾‹é¢˜ 5  LA2572    Viva Confetti  å’Œä¹¦ä¸Šçš„è§£æ³•ç•¥æœ‰ä¸åŒï¼Œè¯·ä»”ç»†é˜…è¯»ä»£ç ä¸­çš„æ³¨é‡Š
 
-¼¸ºÎËã·¨ (Geometric Algorithms in 2D)
-ÀıÌâ 6  UVa10652  Board Wrapping
-ÀıÌâ 7  UVa11168  Airport
-ÀıÌâ 8  UVa10256  The Great Divide
-ÀıÌâ 9  LA4728    Square  ´úÂëÖĞĞı×ª¿¨¿ÇµÄÊµÏÖ·½·¨ºÍÊéÖĞËùÊöÓĞËù²»Í¬¡£ÕâÀï¸ø³öµÄ¸üÊµÓÃ£¬¶øÊéÖĞµÄ±íÊö¸üÒ×¶®¡£
-ÀıÌâ10  LA3890    Most Distant Point from the Sea
-ÀıÌâ11  LA2218    Triathlon
-ÀıÌâ12  LA4992    Jungle Outpost
-ÀıÌâ13  LA2797    Monster Trap
-ÀıÌâ14  LA3218    Find the Border  ÎªÁËÕ¹Ê¾PSLGÄ£°åµÄÓÃ·¨£¬ÕâÀïµÄ³ÌĞò²¢Ã»ÓĞÊ¹ÓÃÊéÉÏ½éÉÜµÄ¾í°ü¹ü·¨
-ÀıÌâ15  UVa12296  Pieces and Discs
+å‡ ä½•ç®—æ³• (Geometric Algorithms in 2D)
+ä¾‹é¢˜ 6  UVa10652  Board Wrapping
+ä¾‹é¢˜ 7  UVa11168  Airport
+ä¾‹é¢˜ 8  UVa10256  The Great Divide
+ä¾‹é¢˜ 9  LA4728    Square  ä»£ç ä¸­æ—‹è½¬å¡å£³çš„å®ç°æ–¹æ³•å’Œä¹¦ä¸­æ‰€è¿°æœ‰æ‰€ä¸åŒã€‚è¿™é‡Œç»™å‡ºçš„æ›´å®ç”¨ï¼Œè€Œä¹¦ä¸­çš„è¡¨è¿°æ›´æ˜“æ‡‚ã€‚
+ä¾‹é¢˜10  LA3890    Most Distant Point from the Sea
+ä¾‹é¢˜11  LA2218    Triathlon
+ä¾‹é¢˜12  LA4992    Jungle Outpost
+ä¾‹é¢˜13  LA2797    Monster Trap
+ä¾‹é¢˜14  LA3218    Find the Border  ä¸ºäº†å±•ç¤ºPSLGæ¨¡æ¿çš„ç”¨æ³•ï¼Œè¿™é‡Œçš„ç¨‹åºå¹¶æ²¡æœ‰ä½¿ç”¨ä¹¦ä¸Šä»‹ç»çš„å·åŒ…è£¹æ³•
+ä¾‹é¢˜15  UVa12296  Pieces and Discs
 
-ÈıÎ¬¼¸ºÎ (Geometric Computations and Algorithms in 3D)
-ÀıÌâ16  UVa11275  3D Triangles  Ìá¹©ÁËSameSide·¨¡¢Ãæ»ı·¨ºÍBarycentric×ø±ê·¨ÈıÖÖ·½·¨µÄ´úÂë
-ÀıÌâ17  LA4973    Ardenia
-ÀıÌâ18  LA4589    Asteroids
-ÀıÌâ19  LA4795    Paperweight  ÊéÖĞ¶Ô±¾ÌâµÄ·ÖÎö²»¹»ÏêÏ¸£¬½¨Òé¶ÁÕß×ĞÏ¸ÔÄ¶Á´úÂëÖĞµÄ×¢ÊÍ
+ä¸‰ç»´å‡ ä½• (Geometric Computations and Algorithms in 3D)
+ä¾‹é¢˜16  UVa11275  3D Triangles  æä¾›äº†SameSideæ³•ã€é¢ç§¯æ³•å’ŒBarycentricåæ ‡æ³•ä¸‰ç§æ–¹æ³•çš„ä»£ç 
+ä¾‹é¢˜17  LA4973    Ardenia
+ä¾‹é¢˜18  LA4589    Asteroids
+ä¾‹é¢˜19  LA4795    Paperweight  ä¹¦ä¸­å¯¹æœ¬é¢˜çš„åˆ†æä¸å¤Ÿè¯¦ç»†ï¼Œå»ºè®®è¯»è€…ä»”ç»†é˜…è¯»ä»£ç ä¸­çš„æ³¨é‡Š

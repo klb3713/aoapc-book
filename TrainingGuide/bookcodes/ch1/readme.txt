@@ -1,41 +1,41 @@
-¡¶Ëã·¨¾ºÈüÈëÃÅ¾­µä¡ª¡ªÑµÁ·Ö¸ÄÏ¡·´úÂë²Ö¿â
+ã€Šç®—æ³•ç«èµ›å…¥é—¨ç»å…¸â€”â€”è®­ç»ƒæŒ‡å—ã€‹ä»£ç ä»“åº“
 
-µÚÒ»ÕÂÀıÌâ´úÂë
+ç¬¬ä¸€ç« ä¾‹é¢˜ä»£ç 
 
-ÎÊÌâÇó½â²ßÂÔ (General Problem Solving Techniques)
-ÀıÌâ  1  UVa11292  The Dragon of Loowater
-ÀıÌâ  2  UVa11729  Commando War
-ÀıÌâ  3  UVa11300  Spreading The Wealth
-ÀıÌâ  4  LA3708    Graveyard
-ÀıÌâ  5  UVa10881  Piotr's Ants
-ÀıÌâ  6  LA2995    Image is Everything
-ÀıÌâ  7  UVa11464  Even Party
-ÀıÌâ  8  LA3401    Colored Cubes  ³ıÁË½âÌâ´úÂëÖ®Íâ»¹Ìá¹©Éú³É³£Á¿±íµÄ´úÂë
-ÀıÌâ  9  UVa11210  Chinese Mahjong
-ÀıÌâ 10  UVa11384  Help is needed for Dexter
-ÀıÌâ 11  UVa10795  A Different Task
-ÀıÌâ 12  LA3971    Assemble
-ÀıÌâ 13  LA3635    Pie
-ÀıÌâ 14  UVa11520  Fill the Square
-ÀıÌâ 15  LA3902    Network
-ÀıÌâ 16  LA3177    Beijing Guards  ÊéÉÏ´úÂëÓĞÎó£¬ÔİÊ±»¹Î´¸üÕı£¬Çë²Î¿¼´úÂë²Ö¿âÖĞµÄ´úÂë
+é—®é¢˜æ±‚è§£ç­–ç•¥ (General Problem Solving Techniques)
+ä¾‹é¢˜  1  UVa11292  The Dragon of Loowater
+ä¾‹é¢˜  2  UVa11729  Commando War
+ä¾‹é¢˜  3  UVa11300  Spreading The Wealth
+ä¾‹é¢˜  4  LA3708    Graveyard
+ä¾‹é¢˜  5  UVa10881  Piotr's Ants
+ä¾‹é¢˜  6  LA2995    Image is Everything
+ä¾‹é¢˜  7  UVa11464  Even Party
+ä¾‹é¢˜  8  LA3401    Colored Cubes  é™¤äº†è§£é¢˜ä»£ç ä¹‹å¤–è¿˜æä¾›ç”Ÿæˆå¸¸é‡è¡¨çš„ä»£ç 
+ä¾‹é¢˜  9  UVa11210  Chinese Mahjong
+ä¾‹é¢˜ 10  UVa11384  Help is needed for Dexter
+ä¾‹é¢˜ 11  UVa10795  A Different Task
+ä¾‹é¢˜ 12  LA3971    Assemble
+ä¾‹é¢˜ 13  LA3635    Pie
+ä¾‹é¢˜ 14  UVa11520  Fill the Square
+ä¾‹é¢˜ 15  LA3902    Network
+ä¾‹é¢˜ 16  LA3177    Beijing Guards  ä¹¦ä¸Šä»£ç æœ‰è¯¯ï¼Œæš‚æ—¶è¿˜æœªæ›´æ­£ï¼Œè¯·å‚è€ƒä»£ç ä»“åº“ä¸­çš„ä»£ç 
 
-¸ßĞ§Ëã·¨Éè¼Æ (Designing Efficient Algorithms)
-ÀıÌâ 17  UVa11462  Age Sort
-ÀıÌâ 18  UVa11078  Open Credit System
-ÀıÌâ 19  UVa11549  Calculator Conundrum
-ÀıÌâ 20  LA3905    Meteor  ³ıÁËÊ¹ÓÃdoubleµÄ´úÂëÖ®Íâ»¹Ìá¹©ÍêÈ«Ê¹ÓÃÕûÊıµÄ´úÂë
-ÀıÌâ 21  LA2678    Subsequence  ³ıÁËÏßĞÔÊ±¼ä¸´ÔÓ¶ÈµÄ±ê×¼³ÌĞòÍâ»¹Ìá¹©n^2, n^3ºÍnlognµÄ´úÂë
-ÀıÌâ 22  LA3029    City Game
-ÀıÌâ 23  LA3695    Distant Galaxy
-ÀıÌâ 24  UVa10755  Garbage heap
-ÀıÌâ 25  LA2965    Jurassic Remains
+é«˜æ•ˆç®—æ³•è®¾è®¡ (Designing Efficient Algorithms)
+ä¾‹é¢˜ 17  UVa11462  Age Sort
+ä¾‹é¢˜ 18  UVa11078  Open Credit System
+ä¾‹é¢˜ 19  UVa11549  Calculator Conundrum
+ä¾‹é¢˜ 20  LA3905    Meteor  é™¤äº†ä½¿ç”¨doubleçš„ä»£ç ä¹‹å¤–è¿˜æä¾›å®Œå…¨ä½¿ç”¨æ•´æ•°çš„ä»£ç 
+ä¾‹é¢˜ 21  LA2678    Subsequence  é™¤äº†çº¿æ€§æ—¶é—´å¤æ‚åº¦çš„æ ‡å‡†ç¨‹åºå¤–è¿˜æä¾›n^2, n^3å’Œnlognçš„ä»£ç 
+ä¾‹é¢˜ 22  LA3029    City Game
+ä¾‹é¢˜ 23  LA3695    Distant Galaxy
+ä¾‹é¢˜ 24  UVa10755  Garbage heap
+ä¾‹é¢˜ 25  LA2965    Jurassic Remains
 
-¶¯Ì¬¹æ»® (Dynamic Programming)
-ÀıÌâ 26  LA3882    And Then There Was One
-ÀıÌâ 27  UVa10635  Prince and Princess
-ÀıÌâ 28  UVa10891  Sum  ³ıÁË±ê×¼³ÌĞòÖ®Íâ»¹Ìá¹©Ã»ÓĞÓÅ»¯µÄDP´úÂë
-ÀıÌâ 29  UVa11825  Hacker's Crackdown
-ÀıÌâ 30  UVa10859  Placing Lampposts
-ÀıÌâ 31  LA3983    Robotruck
-ÀıÌâ 32  LA4794    Sharing Chocolate
+åŠ¨æ€è§„åˆ’ (Dynamic Programming)
+ä¾‹é¢˜ 26  LA3882    And Then There Was One
+ä¾‹é¢˜ 27  UVa10635  Prince and Princess
+ä¾‹é¢˜ 28  UVa10891  Sum  é™¤äº†æ ‡å‡†ç¨‹åºä¹‹å¤–è¿˜æä¾›æ²¡æœ‰ä¼˜åŒ–çš„DPä»£ç 
+ä¾‹é¢˜ 29  UVa11825  Hacker's Crackdown
+ä¾‹é¢˜ 30  UVa10859  Placing Lampposts
+ä¾‹é¢˜ 31  LA3983    Robotruck
+ä¾‹é¢˜ 32  LA4794    Sharing Chocolate

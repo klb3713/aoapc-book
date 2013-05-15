@@ -1,21 +1,21 @@
-¡¶Ëã·¨¾ºÈüÈëÃÅ¾­µä¡·´úÂë²Ö¿â
+ã€Šç®—æ³•ç«èµ›å…¥é—¨ç»å…¸ã€‹ä»£ç ä»“åº“
 
-µÚÆßÕÂÏ°Ìâ´úÂë
+ç¬¬ä¸ƒç« ä¹ é¢˜ä»£ç 
 
-×¢Òâ£ºÓĞĞ©ÌâÄ¿²¢Ã»ÓĞÔÚÊéÖĞ³öÏÖ£¬µ«ÊÇÈÔÈ»ÓĞÒ»¶¨µÄÆô·¢ÒâÒå£¬ËùÒÔÒ»²¢·ÅÔÚÕâÀï£¬¹©¶ÁÕß²Î¿¼¡£
+æ³¨æ„ï¼šæœ‰äº›é¢˜ç›®å¹¶æ²¡æœ‰åœ¨ä¹¦ä¸­å‡ºç°ï¼Œä½†æ˜¯ä»ç„¶æœ‰ä¸€å®šçš„å¯å‘æ„ä¹‰ï¼Œæ‰€ä»¥ä¸€å¹¶æ”¾åœ¨è¿™é‡Œï¼Œä¾›è¯»è€…å‚è€ƒã€‚
 
-ËùÓĞ´úÂëÖĞ¶¼Ğ´ÁËÌâÄ¿´óÒâ¡£
+æ‰€æœ‰ä»£ç ä¸­éƒ½å†™äº†é¢˜ç›®å¤§æ„ã€‚
 
-»ù´¡ÌâÄ¿
+åŸºç¡€é¢˜ç›®
 UVa146   ID Codes
 UVa10098 Generating Fast, Sorted Permutation
 UVa11205 The Broken Pedometer 
-UVa729   The Hamming Distance Problem °üº¬ÈıÖÖ½â·¨
+UVa729   The Hamming Distance Problem åŒ…å«ä¸‰ç§è§£æ³•
 UVa11218 KTV
 UVa167   The Sultan's Successors
 UVa140   Bandwidth
 
-»ØËİ·¨£¨»ù´¡£©
+å›æº¯æ³•ï¼ˆåŸºç¡€ï¼‰
 UVa216   Getting in Line
 UVa10344 23 Out of 5
 UVa331   Mapping the Swaps
@@ -24,9 +24,9 @@ UVa301   Transportation
 UVa208   Firetruck
 UVa193   Graph Coloring
 
-»ØËİ·¨£¨Ìá¸ß£©
+å›æº¯æ³•ï¼ˆæé«˜ï¼‰
 UVa387   A Puzzling Problem
 UVa565   Pizza Anyone?
 
-×´Ì¬¿Õ¼äËÑË÷
-UVa10422 Knights in FEN ²ÉÓÃIDA*Ëã·¨¶ø·ÇBFS
+çŠ¶æ€ç©ºé—´æœç´¢
+UVa10422 Knights in FEN é‡‡ç”¨IDA*ç®—æ³•è€ŒéBFS

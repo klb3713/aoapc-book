@@ -1,46 +1,46 @@
-¡¶Ëã·¨¾ºÈüÈëÃÅ¾­µä¡ª¡ªÑµÁ·Ö¸ÄÏ¡·´úÂë²Ö¿â
+ã€Šç®—æ³•ç«èµ›å…¥é—¨ç»å…¸â€”â€”è®­ç»ƒæŒ‡å—ã€‹ä»£ç ä»“åº“
 
-µÚÈıÕÂÀıÌâ´úÂë
+ç¬¬ä¸‰ç« ä¾‹é¢˜ä»£ç 
 
-»ù´¡Êı¾İ½á¹¹£¨Fundamental Data Structures£©
-ÀıÌâ 1  UVa11995  I Can Guess the Data Structure!
-ÀıÌâ 2  UVa11991  Easy Problem from Rujia Liu
-ÀıÌâ 3  LA3135    Argus
-ÀıÌâ 4  UVa11997  K Smallest Sums
-ÀıÌâ 5  LA3644    X-Plosives
-ÀıÌâ 6  LA3027    Corporative Network
+åŸºç¡€æ•°æ®ç»“æ„ï¼ˆFundamental Data Structuresï¼‰
+ä¾‹é¢˜ 1  UVa11995  I Can Guess the Data Structure!
+ä¾‹é¢˜ 2  UVa11991  Easy Problem from Rujia Liu
+ä¾‹é¢˜ 3  LA3135    Argus
+ä¾‹é¢˜ 4  UVa11997  K Smallest Sums
+ä¾‹é¢˜ 5  LA3644    X-Plosives
+ä¾‹é¢˜ 6  LA3027    Corporative Network
 
-Çø¼äĞÅÏ¢Î¬»¤£¨Maintaining Interval Data£©
-ÀıÌâ 7  LA4329    Ping pong
-ÀıÌâ 8  UVa11235  Frequent Values
-ÀıÌâ 9  LA3938    Ray, pass me the dishes
-ÀıÌâ10  UVa11992  Fast Matrix Operations °üº¬Á½¸ö°æ±¾£¬¼´ÊéÉÏµÄ°æ±¾ºÍÒ»¸ö¸ü¾ßÒ»°ãĞÔ£¨µ«Ğ§ÂÊ½ÏµÍ£©µÄ°æ±¾
+åŒºé—´ä¿¡æ¯ç»´æŠ¤ï¼ˆMaintaining Interval Dataï¼‰
+ä¾‹é¢˜ 7  LA4329    Ping pong
+ä¾‹é¢˜ 8  UVa11235  Frequent Values
+ä¾‹é¢˜ 9  LA3938    Ray, pass me the dishes
+ä¾‹é¢˜10  UVa11992  Fast Matrix Operations åŒ…å«ä¸¤ä¸ªç‰ˆæœ¬ï¼Œå³ä¹¦ä¸Šçš„ç‰ˆæœ¬å’Œä¸€ä¸ªæ›´å…·ä¸€èˆ¬æ€§ï¼ˆä½†æ•ˆç‡è¾ƒä½ï¼‰çš„ç‰ˆæœ¬
 
-ÎªÁË°ïÖú³õÑ§ÕßÀí½â£¬Áí¸½£º
+ä¸ºäº†å¸®åŠ©åˆå­¦è€…ç†è§£ï¼Œå¦é™„ï¼š
 
-¶¯Ì¬·¶Î§×îĞ¡Öµ£ºdynamic_rmq.cpp
-¿ìËÙĞòÁĞ²Ù×÷I£º sequence1.cpp
-¿ìËÙĞòÁĞ²Ù×÷II£ºsequence2.cpp
+åŠ¨æ€èŒƒå›´æœ€å°å€¼ï¼šdynamic_rmq.cpp
+å¿«é€Ÿåºåˆ—æ“ä½œIï¼š sequence1.cpp
+å¿«é€Ÿåºåˆ—æ“ä½œIIï¼šsequence2.cpp
 
-×Ö·û´®Ëã·¨£¨String Algorithms£©
-ÀıÌâ11  LA3942    Remember the Word
-ÀıÌâ12  UVa11732  strcmp() Anyone?  ×¢Òâ±¾ÌâµÄTrie²ÉÓÃ×ó¶ù×Ó/ÓÒĞÖµÜ·¨ÊµÏÖ£¬ÖµµÃ½è¼ø
-ÀıÌâ13  LA3026    Period
-ÀıÌâ14  LA4670    Dominating Patterns
-ÀıÌâ15  UVa11468  Substring
-ÀıÌâ16  UVa11019  Matrix Matcher
-ÀıÌâ17  UVa11107  Life Forms  ±¶Ôö·¨ÊµÏÖµÄºó×ºÊı×é£¬Ö÷Ëã·¨Îª¶ş·Ö+ÏßĞÔÉ¨ÃèÅĞ¶¨
-ÀıÌâ18  LA4513    Stammering Aliens
+å­—ç¬¦ä¸²ç®—æ³•ï¼ˆString Algorithmsï¼‰
+ä¾‹é¢˜11  LA3942    Remember the Word
+ä¾‹é¢˜12  UVa11732  strcmp() Anyone?  æ³¨æ„æœ¬é¢˜çš„Trieé‡‡ç”¨å·¦å„¿å­/å³å…„å¼Ÿæ³•å®ç°ï¼Œå€¼å¾—å€Ÿé‰´
+ä¾‹é¢˜13  LA3026    Period
+ä¾‹é¢˜14  LA4670    Dominating Patterns
+ä¾‹é¢˜15  UVa11468  Substring
+ä¾‹é¢˜16  UVa11019  Matrix Matcher
+ä¾‹é¢˜17  UVa11107  Life Forms  å€å¢æ³•å®ç°çš„åç¼€æ•°ç»„ï¼Œä¸»ç®—æ³•ä¸ºäºŒåˆ†+çº¿æ€§æ‰«æåˆ¤å®š
+ä¾‹é¢˜18  LA4513    Stammering Aliens
 
-ÎªÁË°ïÖú³õÑ§ÕßÀí½â£¬Áí¸½¡°¼òÒ×ËÑË÷ÒıÇæ¡±´úÂë£¨Ô¤´¦ÀíÎÄ±¾´®£¬½ÓÊÜ×Ó´®²éÑ¯£¬¿ÉÌá½»µ½UVa10679£©
-°æ±¾1£ºsearch_engine.cpp
+ä¸ºäº†å¸®åŠ©åˆå­¦è€…ç†è§£ï¼Œå¦é™„â€œç®€æ˜“æœç´¢å¼•æ“â€ä»£ç ï¼ˆé¢„å¤„ç†æ–‡æœ¬ä¸²ï¼Œæ¥å—å­ä¸²æŸ¥è¯¢ï¼Œå¯æäº¤åˆ°UVa10679ï¼‰
+ç‰ˆæœ¬1ï¼šsearch_engine.cpp
 
-ÅÅĞò¶ş²æÊ÷£¨Binary Search Trees£©
-ÀıÌâ19  UVa11020  Efficient Solutions
-ÀıÌâ20  LA5031    Graph and Queries  ³ıÁË±ê×¼³ÌĞòÖ®Íâ»¹ÓĞÒ»¸öÃ»ÓĞÊÖ¹¤ÊÍ·ÅÄÚ´æµÄ°æ±¾£¬´ı³ÌĞòÖ´ĞĞÍê±ÏºóÓÉ²Ù×÷ÏµÍ³»ØÊÕÄÚ´æ
-ÀıÌâ21  UVa11922  Permutation Transformer
-ÀıÌâ22  UVa11996  Jewel Magic
+æ’åºäºŒå‰æ ‘ï¼ˆBinary Search Treesï¼‰
+ä¾‹é¢˜19  UVa11020  Efficient Solutions
+ä¾‹é¢˜20  LA5031    Graph and Queries  é™¤äº†æ ‡å‡†ç¨‹åºä¹‹å¤–è¿˜æœ‰ä¸€ä¸ªæ²¡æœ‰æ‰‹å·¥é‡Šæ”¾å†…å­˜çš„ç‰ˆæœ¬ï¼Œå¾…ç¨‹åºæ‰§è¡Œå®Œæ¯•åç”±æ“ä½œç³»ç»Ÿå›æ”¶å†…å­˜
+ä¾‹é¢˜21  UVa11922  Permutation Transformer
+ä¾‹é¢˜22  UVa11996  Jewel Magic
 
-ÎªÁË°ïÖú³õÑ§ÕßÀí½â£¬Áí¸½£º
+ä¸ºäº†å¸®åŠ©åˆå­¦è€…ç†è§£ï¼Œå¦é™„ï¼š
 
-Ãû´ÎÊ÷£ºranktree.cpp
+åæ¬¡æ ‘ï¼šranktree.cpp

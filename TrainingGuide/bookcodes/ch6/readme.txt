@@ -1,39 +1,39 @@
-¡¶Ëã·¨¾ºÈüÈëÃÅ¾­µä¡ª¡ªÑµÁ·Ö¸ÄÏ¡·´úÂë²Ö¿â
+ã€Šç®—æ³•ç«èµ›å…¥é—¨ç»å…¸â€”â€”è®­ç»ƒæŒ‡å—ã€‹ä»£ç ä»“åº“
 
-µÚÁùÕÂÀıÌâ´úÂë
+ç¬¬å…­ç« ä¾‹é¢˜ä»£ç 
 
-ÂÖÀªÏßÉÏµÄ¶¯Ì¬¹æ»® (Dynamic Programming on Borderline)
-ÀıÌâ 1  UVa11270  Tiling Dominoes
-ÀıÌâ 2  LA3620    Manhattan Wiring
-ÀıÌâ 3  UVa10572  Black and White  ´øÁ¬Í¨ĞÔµÄÂÖÀªÏß¶¯Ì¬¹æ»®¾­µäÌâÄ¿¡£´úÂë×¢ÊÍÖĞ°üº¬ºÜ¶àÏ¸½Ú£¬½¨Òé¶ÁÕß×ĞÏ¸ÔÄ¶Á
+è½®å»“çº¿ä¸Šçš„åŠ¨æ€è§„åˆ’ (Dynamic Programming on Borderline)
+ä¾‹é¢˜ 1  UVa11270  Tiling Dominoes
+ä¾‹é¢˜ 2  LA3620    Manhattan Wiring
+ä¾‹é¢˜ 3  UVa10572  Black and White  å¸¦è¿é€šæ€§çš„è½®å»“çº¿åŠ¨æ€è§„åˆ’ç»å…¸é¢˜ç›®ã€‚ä»£ç æ³¨é‡Šä¸­åŒ…å«å¾ˆå¤šç»†èŠ‚ï¼Œå»ºè®®è¯»è€…ä»”ç»†é˜…è¯»
 
-Êı¾İ½á¹¹×ÛºÏÓ¦ÓÃ (Advanced Data Structure Topics)
-ÀıÌâ 4  UVa11297  Census  ¶şÎ»Ïß¶ÎÊ÷µÄ¾­µäÌâÄ¿¡£Í¬Ê±¸ø³ö²»´øbuildºÍ´øbuildµÄ°æ±¾
-ÀıÌâ 5  UVa11990  ``Dynamic'' Inversion  FenwickÊ÷Ì×TreapµÄÊµÏÖ´úÂë¡£±¾Ìâ´æÔÚÒ»¸ö¸ü¿ìµÄÀëÏßËã·¨£¬Ê¹ÓÃ·ÖÖÎ·¨+FenwickÊ÷
-ÀıÌâ 6  UVa12003  Array Transformer
+æ•°æ®ç»“æ„ç»¼åˆåº”ç”¨ (Advanced Data Structure Topics)
+ä¾‹é¢˜ 4  UVa11297  Census  äºŒä½çº¿æ®µæ ‘çš„ç»å…¸é¢˜ç›®ã€‚åŒæ—¶ç»™å‡ºä¸å¸¦buildå’Œå¸¦buildçš„ç‰ˆæœ¬
+ä¾‹é¢˜ 5  UVa11990  ``Dynamic'' Inversion  Fenwickæ ‘å¥—Treapçš„å®ç°ä»£ç ã€‚æœ¬é¢˜å­˜åœ¨ä¸€ä¸ªæ›´å¿«çš„ç¦»çº¿ç®—æ³•ï¼Œä½¿ç”¨åˆ†æ²»æ³•+Fenwickæ ‘
+ä¾‹é¢˜ 6  UVa12003  Array Transformer
 
-±©Á¦·¨ (Brute Force)
-ÀıÌâ 7  LA3789    Iceman
-ÀıÌâ 8  LA4451    House of Cards  ¼«´ó¼«Ğ¡¹ı³Ì+alpha-beta¼ôÖ¦¿ò¼Ü
-ÀıÌâ 9  LA2659    Sudoku  °üº¬DLXËã·¨Ä£°å´úÂë
+æš´åŠ›æ³• (Brute Force)
+ä¾‹é¢˜ 7  LA3789    Iceman
+ä¾‹é¢˜ 8  LA4451    House of Cards  æå¤§æå°è¿‡ç¨‹+alpha-betaå‰ªææ¡†æ¶
+ä¾‹é¢˜ 9  LA2659    Sudoku  åŒ…å«DLXç®—æ³•æ¨¡æ¿ä»£ç 
 
-¼¸ºÎ×¨Ìâ (Selected Topics in Geometry)
-ÀıÌâ10  LA5129    Affine Mess  ´úÂëÖĞ°üº¬Ò»Ğ©ÊéÖĞÃ»ÓĞÌáµ½µÄÏ¸½Ú
-ÀıÌâ11  UVa12303  Composite Transformations  °üº¬ÈıÎ¬±ä»»¾ØÕóµÄÄ£°å´úÂë
-ÀıÌâ12  LA4127    The Sky is the Limit
-ÀıÌâ13  LA3532    Nuclear Plants  ²ÉÓÃÔ²»¡ÀëÉ¢»¯ÊµÏÖ¡£´úÂë×¢ÊÍÖĞ°üº¬ºÜ¶àÏ¸½Ú£¬½¨Òé¶ÁÕß×ĞÏ¸ÔÄ¶Á
-ÀıÌâ14  LA3809    Raising the Roof  Ê¹ÓÃÑ­»·¶ø·ÇÓÅÏÈ¶ÓÁĞ±£´æÈı½ÇĞÎ¼¯ºÏ¡£ËÙ¶ÈÉÔÂıµ«´úÂë¼òµ¥
-ÀıÌâ15  LA4125    Painter  É¨Ãè·¨+ÅÅĞò¶ş²æÊ÷µÄ¾­µäÌâÄ¿¡£´úÂë×¢ÊÍÖĞ°üº¬ºÜ¶àÏ¸½Ú£¬½¨Òé¶ÁÕß×ĞÏ¸ÔÄ¶Á
-ÀıÌâ16  UVa11921  Save the Princess  Ô²ĞÎÕÏ°­ÎïµÄ»úÆ÷ÈËÂ·¾¶¹æ»®µÄ¾­µäÌâÄ¿¡£´úÂë×¢ÊÍÖĞ°üº¬ºÜ¶àÏ¸½Ú£¬½¨Òé¶ÁÕß×ĞÏ¸ÔÄ¶Á
-ÀıÌâ17  LA2397    Collecting Luggage
+å‡ ä½•ä¸“é¢˜ (Selected Topics in Geometry)
+ä¾‹é¢˜10  LA5129    Affine Mess  ä»£ç ä¸­åŒ…å«ä¸€äº›ä¹¦ä¸­æ²¡æœ‰æåˆ°çš„ç»†èŠ‚
+ä¾‹é¢˜11  UVa12303  Composite Transformations  åŒ…å«ä¸‰ç»´å˜æ¢çŸ©é˜µçš„æ¨¡æ¿ä»£ç 
+ä¾‹é¢˜12  LA4127    The Sky is the Limit
+ä¾‹é¢˜13  LA3532    Nuclear Plants  é‡‡ç”¨åœ†å¼§ç¦»æ•£åŒ–å®ç°ã€‚ä»£ç æ³¨é‡Šä¸­åŒ…å«å¾ˆå¤šç»†èŠ‚ï¼Œå»ºè®®è¯»è€…ä»”ç»†é˜…è¯»
+ä¾‹é¢˜14  LA3809    Raising the Roof  ä½¿ç”¨å¾ªç¯è€Œéä¼˜å…ˆé˜Ÿåˆ—ä¿å­˜ä¸‰è§’å½¢é›†åˆã€‚é€Ÿåº¦ç¨æ…¢ä½†ä»£ç ç®€å•
+ä¾‹é¢˜15  LA4125    Painter  æ‰«ææ³•+æ’åºäºŒå‰æ ‘çš„ç»å…¸é¢˜ç›®ã€‚ä»£ç æ³¨é‡Šä¸­åŒ…å«å¾ˆå¤šç»†èŠ‚ï¼Œå»ºè®®è¯»è€…ä»”ç»†é˜…è¯»
+ä¾‹é¢˜16  UVa11921  Save the Princess  åœ†å½¢éšœç¢ç‰©çš„æœºå™¨äººè·¯å¾„è§„åˆ’çš„ç»å…¸é¢˜ç›®ã€‚ä»£ç æ³¨é‡Šä¸­åŒ…å«å¾ˆå¤šç»†èŠ‚ï¼Œå»ºè®®è¯»è€…ä»”ç»†é˜…è¯»
+ä¾‹é¢˜17  LA2397    Collecting Luggage
 
-ÊıÑ§×¨Ìâ (Selected Topics in Mathematics)
-ÀıÌâ18  UVa11017  A Greener World
-ÀıÌâ19  LA3700    Interesting Yang Hui Triangle
-ÀıÌâ20  LA4746    Decrypt Messages  °üº¬Ô­¸ù¼ÆËãÄ£°å´úÂë
-ÀıÌâ21  UVa12298  Super Poker II  °üº¬Cooley-TukeyµÄFFËã·¨µÄµü´úÊµÏÖ£¬ÒÔ¼°¿ìËÙ¶àÏîÊ½³Ë·¨µÄÄ£°å´úÂëÒÔ¼°ÏêÏ¸×¢ÊÍ
-ÀıÌâ22  UVa10498  Happiness!  °üº¬ÏßĞÔ¹æ»®µÄ¶ş½×¶Î¸Ä½øµ¥´¿ĞÎ·¨Ä£°å´úÂë£¨Õë¶ÔÏ¡Êè¾ØÕó½øĞĞÁËÓÅ»¯£©
+æ•°å­¦ä¸“é¢˜ (Selected Topics in Mathematics)
+ä¾‹é¢˜18  UVa11017  A Greener World
+ä¾‹é¢˜19  LA3700    Interesting Yang Hui Triangle
+ä¾‹é¢˜20  LA4746    Decrypt Messages  åŒ…å«åŸæ ¹è®¡ç®—æ¨¡æ¿ä»£ç 
+ä¾‹é¢˜21  UVa12298  Super Poker II  åŒ…å«Cooley-Tukeyçš„FFç®—æ³•çš„è¿­ä»£å®ç°ï¼Œä»¥åŠå¿«é€Ÿå¤šé¡¹å¼ä¹˜æ³•çš„æ¨¡æ¿ä»£ç ä»¥åŠè¯¦ç»†æ³¨é‡Š
+ä¾‹é¢˜22  UVa10498  Happiness!  åŒ…å«çº¿æ€§è§„åˆ’çš„äºŒé˜¶æ®µæ”¹è¿›å•çº¯å½¢æ³•æ¨¡æ¿ä»£ç ï¼ˆé’ˆå¯¹ç¨€ç–çŸ©é˜µè¿›è¡Œäº†ä¼˜åŒ–ï¼‰
 
-´úÂë×éÖ¯Óëµ÷ÊÔ (Writing and Debugging Complex Codes)
-ÀıÌâ23  UVa10966  3KP-Bash Project
-ÀıÌâ24  LA4488    Final Combat  Í¬Ê±Ìá¹©ÊéÖĞ¸ø³öÓÃÀ´¶ÍÁ¶¶ÁÕß¾²Ì¬²î´íÄÜÁ¦µÄ´íÎó´úÂëºÍÕıÈ·´úÂë
+ä»£ç ç»„ç»‡ä¸è°ƒè¯• (Writing and Debugging Complex Codes)
+ä¾‹é¢˜23  UVa10966  3KP-Bash Project
+ä¾‹é¢˜24  LA4488    Final Combat  åŒæ—¶æä¾›ä¹¦ä¸­ç»™å‡ºç”¨æ¥é”»ç‚¼è¯»è€…é™æ€å·®é”™èƒ½åŠ›çš„é”™è¯¯ä»£ç å’Œæ­£ç¡®ä»£ç 

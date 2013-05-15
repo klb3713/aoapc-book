@@ -1,45 +1,45 @@
-¡¶Ëã·¨¾ºÈüÈëÃÅ¾­µä¡ª¡ªÑµÁ·Ö¸ÄÏ¡·´úÂë²Ö¿â
+ã€Šç®—æ³•ç«èµ›å…¥é—¨ç»å…¸â€”â€”è®­ç»ƒæŒ‡å—ã€‹ä»£ç ä»“åº“
 
-µÚ¶şÕÂÀıÌâ´úÂë
+ç¬¬äºŒç« ä¾‹é¢˜ä»£ç 
 
-×éºÏ¼ÆÊı (Counting)
-ÀıÌâ 1  UVa11538  Chess Queen
-ÀıÌâ 2  UVa11401  Triangle Counting
-ÀıÌâ 3  UVa11806  Cheerleaders
-ÀıÌâ 4  LA3516    Exploring Pyramids
-ÀıÌâ 5  UVa11361  Investigating Div-Sum Property
-ÀıÌâ 6  LA4123    Glenbow Museum
-ÀıÌâ 7  UVa10253  Series-Parallel Networks
+ç»„åˆè®¡æ•° (Counting)
+ä¾‹é¢˜ 1  UVa11538  Chess Queen
+ä¾‹é¢˜ 2  UVa11401  Triangle Counting
+ä¾‹é¢˜ 3  UVa11806  Cheerleaders
+ä¾‹é¢˜ 4  LA3516    Exploring Pyramids
+ä¾‹é¢˜ 5  UVa11361  Investigating Div-Sum Property
+ä¾‹é¢˜ 6  LA4123    Glenbow Museum
+ä¾‹é¢˜ 7  UVa10253  Series-Parallel Networks
 
-ÊıÂÛ (Number Theory)
-ÀıÌâ 8  LA4119  Always an Integer
-ÀıÌâ 9  UVa11426  GCD
-ÀıÌâ10  UVa11754  Code Feat
-ÀıÌâ11  UVa11916  Emoogle Grid
+æ•°è®º (Number Theory)
+ä¾‹é¢˜ 8  LA4119  Always an Integer
+ä¾‹é¢˜ 9  UVa11426  GCD
+ä¾‹é¢˜10  UVa11754  Code Feat
+ä¾‹é¢˜11  UVa11916  Emoogle Grid
 
-×éºÏÓÎÏ· (Game Theory)
-ÀıÌâ12  LA5059    Playing With Stones  ³ıÁË½âÌâ´úÂëÖ®Íâ£¬»¹Ìá¹©ÕÒ¹æÂÉµÄ´úÂë
-ÀıÌâ13  UVa10561  Treblecross
+ç»„åˆæ¸¸æˆ (Game Theory)
+ä¾‹é¢˜12  LA5059    Playing With Stones  é™¤äº†è§£é¢˜ä»£ç ä¹‹å¤–ï¼Œè¿˜æä¾›æ‰¾è§„å¾‹çš„ä»£ç 
+ä¾‹é¢˜13  UVa10561  Treblecross
 
-¸ÅÂÊ (Probability)
-ÀıÌâ14  UVa11021  Tribbles
-ÀıÌâ15  UVa11722  Joining with Friend
-ÀıÌâ16  UVa11427  Expect the Expected
-ÀıÌâ17  UVa11762  Race To 1
+æ¦‚ç‡ (Probability)
+ä¾‹é¢˜14  UVa11021  Tribbles
+ä¾‹é¢˜15  UVa11722  Joining with Friend
+ä¾‹é¢˜16  UVa11427  Expect the Expected
+ä¾‹é¢˜17  UVa11762  Race To 1
 
-ÖÃ»»(Permutation)
-ÀıÌâ18  UVa10294  Arif in Dhaka (First Love part 2)
-ÀıÌâ19  LA3641  Leonardo's Notebook
-ÀıÌâ20  UVa11077  Find the Permutations
-ÀıÌâ21  LA3510  Pixel Shuffle
+ç½®æ¢(Permutation)
+ä¾‹é¢˜18  UVa10294  Arif in Dhaka (First Love part 2)
+ä¾‹é¢˜19  LA3641  Leonardo's Notebook
+ä¾‹é¢˜20  UVa11077  Find the Permutations
+ä¾‹é¢˜21  LA3510  Pixel Shuffle
 
-¾ØÕóÓëÏßĞÔ·½³Ì×é(Matrix & System of Linear Equations)
-ÀıÌâ22  UVa10870  Recurrences
-ÀıÌâ23  LA3704  Cellular Automaton
-ÀıÌâ24  UVa10828  Back to Kernighan-Ritchie
-ÀıÌâ25  UVa11542  Square
+çŸ©é˜µä¸çº¿æ€§æ–¹ç¨‹ç»„(Matrix & System of Linear Equations)
+ä¾‹é¢˜22  UVa10870  Recurrences
+ä¾‹é¢˜23  LA3704  Cellular Automaton
+ä¾‹é¢˜24  UVa10828  Back to Kernighan-Ritchie
+ä¾‹é¢˜25  UVa11542  Square
 
-ÊıÖµ·½·¨(Numerical Methods)
-ÀıÌâ26  UVa10341  Solve It
-ÀıÌâ27  LA5009  Error Curves
-ÀıÌâ28  LA3485  Bridge  ³ıÁË·ûºÅ»ı·ÖµÃµ½½âµÄ·â±ÕĞÎÊ½Íâ£¬»¹Ìá¹©simpson¹«Ê½µÄ½â·¨
+æ•°å€¼æ–¹æ³•(Numerical Methods)
+ä¾‹é¢˜26  UVa10341  Solve It
+ä¾‹é¢˜27  LA5009  Error Curves
+ä¾‹é¢˜28  LA3485  Bridge  é™¤äº†ç¬¦å·ç§¯åˆ†å¾—åˆ°è§£çš„å°é—­å½¢å¼å¤–ï¼Œè¿˜æä¾›simpsonå…¬å¼çš„è§£æ³•

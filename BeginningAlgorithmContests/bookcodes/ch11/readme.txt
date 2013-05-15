@@ -1,15 +1,15 @@
-µÚÊ®Ò»ÕÂ Í¼ÂÛÄ£ĞÍÓëËã·¨
+ç¬¬åä¸€ç«  å›¾è®ºæ¨¡å‹ä¸ç®—æ³•
 
-* ÓĞÏò¼òµ¥Í¼Éú³ÉÆ÷
-  gen1.cpp (Ò»¸öÈ¨Öµ£¬ÊÊºÏ×î¶ÌÂ·ºÍ×î´óÁ÷)
-  gen2.cpp(Á½¸öÈ¨Öµ£¬ÊÊºÏ×îĞ¡·ÑÓÃ×î´óÁ÷)
+* æœ‰å‘ç®€å•å›¾ç”Ÿæˆå™¨
+  gen1.cpp (ä¸€ä¸ªæƒå€¼ï¼Œé€‚åˆæœ€çŸ­è·¯å’Œæœ€å¤§æµ)
+  gen2.cpp(ä¸¤ä¸ªæƒå€¼ï¼Œé€‚åˆæœ€å°è´¹ç”¨æœ€å¤§æµ)
 
-* ×î¶ÌÂ· ²âÊÔ½Å±¾: test_sssp.bat
-  dijkstra.cpp (DijkstraËã·¨, ÁÚ½Ó¾ØÕó)
-  dijkstraheap.cpp (DijkstraËã·¨£¬ÁÚ½Ó±í+¶ş²æ¶Ñ)
-  bellman.cpp (Bellman-FordËã·¨£¬ÁÚ½Ó±í)
+* æœ€çŸ­è·¯ æµ‹è¯•è„šæœ¬: test_sssp.bat
+  dijkstra.cpp (Dijkstraç®—æ³•, é‚»æ¥çŸ©é˜µ)
+  dijkstraheap.cpp (Dijkstraç®—æ³•ï¼Œé‚»æ¥è¡¨+äºŒå‰å †)
+  bellman.cpp (Bellman-Fordç®—æ³•ï¼Œé‚»æ¥è¡¨)
 
-* ÍøÂçÁ÷ ²âÊÔ½Å±¾: test_maxflow.bat
-  maxflow.cpp (Ford-FulkesonËã·¨£¬DFSÕÒÔö¹ãÂ·)
-  maxflow2.cpp (Edmonds-KarpËã·¨£¬BFSÕÒÔö¹ãÂ·)
-  mincostflow.cpp (Á¬Ğø×î¶ÌÂ·Ëã·¨£¬Bellman-FordÕÒ×î¶ÌÔö¹ãÂ·)
+* ç½‘ç»œæµ æµ‹è¯•è„šæœ¬: test_maxflow.bat
+  maxflow.cpp (Ford-Fulkesonç®—æ³•ï¼ŒDFSæ‰¾å¢å¹¿è·¯)
+  maxflow2.cpp (Edmonds-Karpç®—æ³•ï¼ŒBFSæ‰¾å¢å¹¿è·¯)
+  mincostflow.cpp (è¿ç»­æœ€çŸ­è·¯ç®—æ³•ï¼ŒBellman-Fordæ‰¾æœ€çŸ­å¢å¹¿è·¯)

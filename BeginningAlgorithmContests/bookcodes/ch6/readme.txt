@@ -1,22 +1,22 @@
-µÚÁùÕÂ Êý¾Ý½á¹¹»ù´¡
+ç¬¬å…­ç«  æ•°æ®ç»“æž„åŸºç¡€
 
-6.1 Õ»ºÍ¶ÓÁÐ
-6.1.1 ¿¨Æ¬ÓÎÏ·     10935.cpp(Êý×é°æ, ¹ÊÒâÁôÓÐbug), 10935b.cpp(STL°æ)
-6.1.2 Ìú¹ì         514.cpp(Êý×é°æ), 514b.cpp(STL°æ)
+6.1 æ ˆå’Œé˜Ÿåˆ—
+6.1.1 å¡ç‰‡æ¸¸æˆ     10935.cpp(æ•°ç»„ç‰ˆ, æ•…æ„ç•™æœ‰bug), 10935b.cpp(STLç‰ˆ)
+6.1.2 é“è½¨         514.cpp(æ•°ç»„ç‰ˆ), 514b.cpp(STLç‰ˆ)
 
-6.2 Á´±í           list1.cpp(Êý×é°æ), list2.cpp(Á´±í°æ), listgen.cpp(Êý¾ÝÉú³ÉÆ÷)
+6.2 é“¾è¡¨           list1.cpp(æ•°ç»„ç‰ˆ), list2.cpp(é“¾è¡¨ç‰ˆ), listgen.cpp(æ•°æ®ç”Ÿæˆå™¨)
 
-6.3 ¶þ²æÊ÷
-6.3.1 Ð¡ÇòÏÂÂä     679.cpp(Ä£Äâ°æ), 679b.cpp(ÊýÑ§°æ)
-6.3.2 ²ã´Î±éÀú     122.cpp(Ö¸Õë°æ), 122b.cpp(Êý×é°æ)
-6.3.3 ¶þ²æÊ÷ÖØ½¨   536.cpp
+6.3 äºŒå‰æ ‘
+6.3.1 å°çƒä¸‹è½     679.cpp(æ¨¡æ‹Ÿç‰ˆ), 679b.cpp(æ•°å­¦ç‰ˆ)
+6.3.2 å±‚æ¬¡éåŽ†     122.cpp(æŒ‡é’ˆç‰ˆ), 122b.cpp(æ•°ç»„ç‰ˆ)
+6.3.3 äºŒå‰æ ‘é‡å»º   536.cpp
 
-6.4 Í¼
-6.4.1 ºÚ°×Í¼Ïñ     bw.cpp
-6.4.2 ×ßÃÔ¹¬       maze.cpp(ÑùÀýÊäÈë£ºmaze.in)
-6.4.3 ÍØÆËÅÅÐò     topo.cpp(ÑùÀýÊäÈë£ºtopo.in)
-6.4.4 Å·À­»ØÂ·     euler.cpp(ÑùÀýÊäÈë£ºeuler.in)
+6.4 å›¾
+6.4.1 é»‘ç™½å›¾åƒ     bw.cpp
+6.4.2 èµ°è¿·å®«       maze.cpp(æ ·ä¾‹è¾“å…¥ï¼šmaze.in)
+6.4.3 æ‹“æ‰‘æŽ’åº     topo.cpp(æ ·ä¾‹è¾“å…¥ï¼štopo.in)
+6.4.4 æ¬§æ‹‰å›žè·¯     euler.cpp(æ ·ä¾‹è¾“å…¥ï¼šeuler.in)
 
-ËùÓÐÒÔÊý×Ö×÷ÎªÖ÷ÎÄ¼þÃûµÄ³ÌÐò¶¼´ú±í×ÅUVaÉÏµÄÌâºÅ¡£
+æ‰€æœ‰ä»¥æ•°å­—ä½œä¸ºä¸»æ–‡ä»¶åçš„ç¨‹åºéƒ½ä»£è¡¨ç€UVaä¸Šçš„é¢˜å·ã€‚
 
-µ«ÐèÒª×¢ÒâµÄÊ±ºò£¬ÓÐµÄÌâÄ¿ÔÚuvaÉÏµÄÊäÈëÊä³ö¸ñÊ½ÓëÊéÉÏ²»Í¬£¬ÕâÐ©ÌâÄ¿»áÓÐÒ»¸öÒÔ_uva.cppÎªºó×ºµÄ´úÂë£¬Õâ¸ö´úÂë²Å¶ÔÓ¦uvaµÄÊäÈëÊä³ö¸ñÊ½¡£
+ä½†éœ€è¦æ³¨æ„çš„æ—¶å€™ï¼Œæœ‰çš„é¢˜ç›®åœ¨uvaä¸Šçš„è¾“å…¥è¾“å‡ºæ ¼å¼ä¸Žä¹¦ä¸Šä¸åŒï¼Œè¿™äº›é¢˜ç›®ä¼šæœ‰ä¸€ä¸ªä»¥_uva.cppä¸ºåŽç¼€çš„ä»£ç ï¼Œè¿™ä¸ªä»£ç æ‰å¯¹åº”uvaçš„è¾“å…¥è¾“å‡ºæ ¼å¼ã€‚

@@ -1,49 +1,49 @@
-¡¶Ëã·¨¾ºÈüÈëÃÅ¾­µä¡ª¡ªÑµÁ·Ö¸ÄÏ¡·´úÂë²Ö¿â
+ã€Šç®—æ³•ç«èµ›å…¥é—¨ç»å…¸â€”â€”è®­ç»ƒæŒ‡å—ã€‹ä»£ç ä»“åº“
 
-µÚÎåÕÂÀıÌâ´úÂë
+ç¬¬äº”ç« ä¾‹é¢˜ä»£ç 
 
-»ù´¡ÖªÊ¶ºÍËã·¨ (Fundamentals)
-ÀıÌâ 1  UVa11624  Fire!
-ÀıÌâ 2  UVa10047  The Monocycle
-ÀıÌâ 3  UVa10054  The Necklace
-ÀıÌâ 4  LA4255    Guess
+åŸºç¡€çŸ¥è¯†å’Œç®—æ³• (Fundamentals)
+ä¾‹é¢˜ 1  UVa11624  Fire!
+ä¾‹é¢˜ 2  UVa10047  The Monocycle
+ä¾‹é¢˜ 3  UVa10054  The Necklace
+ä¾‹é¢˜ 4  LA4255    Guess
 
-DFS¼°ÆäÓ¦ÓÃ (Depth First Search)
-ÀıÌâ 5  LA3523    Knights of the Round Table
-ÀıÌâ 6  LA5135    Mining Your Own Business
-ÀıÌâ 7  LA4287    Proving Equivalences  ¸ø³öÁËÁ½·İ´úÂë£¬·Ö±ğÓÃTarjanºÍKosaraju¼ÆËãSCC
-ÀıÌâ 8  UVa11324  The Largest Clique
-ÀıÌâ 9  LA3211    Now or Later
-ÀıÌâ10  LA3713    Astronauts
+DFSåŠå…¶åº”ç”¨ (Depth First Search)
+ä¾‹é¢˜ 5  LA3523    Knights of the Round Table
+ä¾‹é¢˜ 6  LA5135    Mining Your Own Business
+ä¾‹é¢˜ 7  LA4287    Proving Equivalences  ç»™å‡ºäº†ä¸¤ä»½ä»£ç ï¼Œåˆ†åˆ«ç”¨Tarjanå’ŒKosarajuè®¡ç®—SCC
+ä¾‹é¢˜ 8  UVa11324  The Largest Clique
+ä¾‹é¢˜ 9  LA3211    Now or Later
+ä¾‹é¢˜10  LA3713    Astronauts
 
-×î¶ÌÂ·¼°ÆäÓ¦ÓÃ (Shortest Paths)
-ÀıÌâ11  UVa11374  Airport Express
-ÀıÌâ12  UVa10917  A Walk through the Forest
-ÀıÌâ13  LA4080    Warfare and Logistics
-ÀıÌâ14  UVa10537  Toll! Revisited
-ÀıÌâ15  UVa11090  Going in Cycle!!
-ÀıÌâ16  UVa11478  Halum  ±¾Ìâ´æÔÚĞ§ÂÊ¸ü¸ßµÄËã·¨£¨²¢ÇÒ³¬³öÁËÊéµÄ·¶Î§£©¡£ÊéÖĞµÄ½âÊÍÒÔ¼°ÕâÀïµÄ´úÂëÖ»ÊÇÎªÁËÕ¹Ê¾²î·ÖÔ¼ÊøÏµÍ³µÄ½â·¨
-ÀıÌâ17  LA4128    Steam Roller  ¸ø³öÁËÊéÉÏµÄÁ½ÖÖ²»Í¬½¨Ä£·½·¨µÄ´úÂë
-ÀıÌâ18  LA3561    Low Cost Air Travel
-ÀıÌâ19  LA3661    Animal Run  ³ıÁËÊéÉÏµÄ½¨Ä£·½·¨Ö®ÍâÁíÍâ¸ø³öÁËÒ»ÖÖ¸ü¼òµ¥ÇÒĞ§ÂÊ¸ü¸ßµÄ½¨Ä£·½·¨£¬Ïê¼û´úÂë
+æœ€çŸ­è·¯åŠå…¶åº”ç”¨ (Shortest Paths)
+ä¾‹é¢˜11  UVa11374  Airport Express
+ä¾‹é¢˜12  UVa10917  A Walk through the Forest
+ä¾‹é¢˜13  LA4080    Warfare and Logistics
+ä¾‹é¢˜14  UVa10537  Toll! Revisited
+ä¾‹é¢˜15  UVa11090  Going in Cycle!!
+ä¾‹é¢˜16  UVa11478  Halum  æœ¬é¢˜å­˜åœ¨æ•ˆç‡æ›´é«˜çš„ç®—æ³•ï¼ˆå¹¶ä¸”è¶…å‡ºäº†ä¹¦çš„èŒƒå›´ï¼‰ã€‚ä¹¦ä¸­çš„è§£é‡Šä»¥åŠè¿™é‡Œçš„ä»£ç åªæ˜¯ä¸ºäº†å±•ç¤ºå·®åˆ†çº¦æŸç³»ç»Ÿçš„è§£æ³•
+ä¾‹é¢˜17  LA4128    Steam Roller  ç»™å‡ºäº†ä¹¦ä¸Šçš„ä¸¤ç§ä¸åŒå»ºæ¨¡æ–¹æ³•çš„ä»£ç 
+ä¾‹é¢˜18  LA3561    Low Cost Air Travel
+ä¾‹é¢˜19  LA3661    Animal Run  é™¤äº†ä¹¦ä¸Šçš„å»ºæ¨¡æ–¹æ³•ä¹‹å¤–å¦å¤–ç»™å‡ºäº†ä¸€ç§æ›´ç®€å•ä¸”æ•ˆç‡æ›´é«˜çš„å»ºæ¨¡æ–¹æ³•ï¼Œè¯¦è§ä»£ç 
 
-×îĞ¡Éú³ÉÊ÷ (Minimal Spanning Tree and Variants)
-ÀıÌâ20  LA5713    Qin Shi Huang's National Road System
-ÀıÌâ21  UVa11354  Bond
-ÀıÌâ22  UVa11865  Stream My Contest  ²ÉÓÃ×îĞ¡Ê÷ĞÍÍ¼µÄÁÚ½Ó¾ØÕóĞ´·¨¡£ÒòÎªÊéÉÏ²¢Ã»ÓĞ¸ø³öËã·¨µÄÊµÏÖÏ¸½Ú£¬Çë¶ÁÕß×ĞÏ¸ÔÄ¶Á´úÂëÖĞµÄ×¢ÊÍ
+æœ€å°ç”Ÿæˆæ ‘ (Minimal Spanning Tree and Variants)
+ä¾‹é¢˜20  LA5713    Qin Shi Huang's National Road System
+ä¾‹é¢˜21  UVa11354  Bond
+ä¾‹é¢˜22  UVa11865  Stream My Contest  é‡‡ç”¨æœ€å°æ ‘å‹å›¾çš„é‚»æ¥çŸ©é˜µå†™æ³•ã€‚å› ä¸ºä¹¦ä¸Šå¹¶æ²¡æœ‰ç»™å‡ºç®—æ³•çš„å®ç°ç»†èŠ‚ï¼Œè¯·è¯»è€…ä»”ç»†é˜…è¯»ä»£ç ä¸­çš„æ³¨é‡Š
 
-¶ş·ÖÍ¼Æ¥Åä (Bipartite Graph Matching)
-ÀıÌâ23  LA4043    Ants
-ÀıÌâ24  UVa11383  Golden Tiger Claw  ¸ø³öÁËÁ½·İ´úÂë£¬ÆäÖĞÒ»·İ¸üÊÊºÏ×÷ÎªËã·¨Ä£°å
-ÀıÌâ25  LA2238    Fixed Partition Memory Management
-ÀıÌâ26  LA3989    Ladies' Choice
-ÀıÌâ27  UVa11419  SAM I AM
-ÀıÌâ28  LA3415    Guardian of Decency
-ÀıÌâ29  LA3126    Taxi Cab Scheme
+äºŒåˆ†å›¾åŒ¹é… (Bipartite Graph Matching)
+ä¾‹é¢˜23  LA4043    Ants
+ä¾‹é¢˜24  UVa11383  Golden Tiger Claw  ç»™å‡ºäº†ä¸¤ä»½ä»£ç ï¼Œå…¶ä¸­ä¸€ä»½æ›´é€‚åˆä½œä¸ºç®—æ³•æ¨¡æ¿
+ä¾‹é¢˜25  LA2238    Fixed Partition Memory Management
+ä¾‹é¢˜26  LA3989    Ladies' Choice
+ä¾‹é¢˜27  UVa11419  SAM I AM
+ä¾‹é¢˜28  LA3415    Guardian of Decency
+ä¾‹é¢˜29  LA3126    Taxi Cab Scheme
 
-ÍøÂçÁ÷ (Network Flows)
-ÀıÌâ30  UVa11248  Frequency Hopping  ¸ø³öÁËÁ½·İ´úÂë£¬·Ö±ğÊ¹ÓÃ×î´óÁ÷µÄDinicËã·¨ºÍISAPËã·¨£¨´øÓÅ»¯£©¡£ºóÕßĞ§ÂÊ¸ü¸ß£¬µ«´úÂëÒ²¸ü¸´ÔÓ
-ÀıÌâ31  LA2957    Bring Them There
-ÀıÌâ32  LA2531    The K-league
-ÀıÌâ33  UVa10779  Collector's Problem
-ÀıÌâ34  UVa11613  Acme Corporation
+ç½‘ç»œæµ (Network Flows)
+ä¾‹é¢˜30  UVa11248  Frequency Hopping  ç»™å‡ºäº†ä¸¤ä»½ä»£ç ï¼Œåˆ†åˆ«ä½¿ç”¨æœ€å¤§æµçš„Dinicç®—æ³•å’ŒISAPç®—æ³•ï¼ˆå¸¦ä¼˜åŒ–ï¼‰ã€‚åè€…æ•ˆç‡æ›´é«˜ï¼Œä½†ä»£ç ä¹Ÿæ›´å¤æ‚
+ä¾‹é¢˜31  LA2957    Bring Them There
+ä¾‹é¢˜32  LA2531    The K-league
+ä¾‹é¢˜33  UVa10779  Collector's Problem
+ä¾‹é¢˜34  UVa11613  Acme Corporation
