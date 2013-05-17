@@ -22,3 +22,7 @@ UVa10556 Biometrics 陈锋
 UVa10585 Center of Symmetry 陈锋
 UVa10969 Sweet Dream 陈锋
 UVa11928 The Busy Dog 刘汝佳
+
+二维几何算法（Geometric Algorithms in 2D）
+LA2453 Wall 陈锋
+UVa10084 Hotter Colder 陈锋
