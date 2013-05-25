@@ -26,3 +26,6 @@ UVa11928 The Busy Dog 刘汝佳
 二维几何算法（Geometric Algorithms in 2D）
 LA2453 Wall 陈锋
 UVa10084 Hotter Colder 陈锋
+
+三维几何（Geometric Computations and Algorithms in 3D）
+UVa1373 How I Wonder What You Are! 陈锋
