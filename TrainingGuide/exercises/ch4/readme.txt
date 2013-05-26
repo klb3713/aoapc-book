@@ -29,3 +29,4 @@ UVa10084 Hotter Colder 陈锋
 
 三维几何（Geometric Computations and Algorithms in 3D）
 UVa1373 How I Wonder What You Are! 陈锋
+UVa10794 The Deadly Olympic Returns 陈锋
