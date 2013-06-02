@@ -1,4 +1,4 @@
-《算法竞赛入门经典》代码仓库
+﻿《算法竞赛入门经典》代码仓库
 
 第五章习题代码
 
@@ -22,3 +22,16 @@ UVa424   Integer Inquiry
 UVa10106 Product
 UVa465   Overflow
 UVa748   Exponentiation
+UVa10494 If We Were a Child Again
+
+排序与检索
+UVa340   Master-Mind Hints
+UVa10420 List of Conquests
+UVa10474 Where is the Marble?
+UVa152   Tree's a Crowd
+UVa120   Stacks of Flapjacks
+UVa156   Ananagrams
+UVa400   Unix ls
+
+数学
+UVa113 Power of Cryptography
