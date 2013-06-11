@@ -6,7 +6,7 @@ const int maxn = 200;
 char line1[maxn], line2[maxn];
 int len1, len2;
 
-// ´òÓ¡µÚÒ»ĞĞµÄÎ»ÖÃfromµ½toµÄ×Ö·û
+// æ‰“å°ç¬¬ä¸€è¡Œçš„ä½ç½®fromåˆ°toçš„å­—ç¬¦
 void print1(int from, int to) {
   for(int i = from; i <= to; i++)
     printf("%c", line1[i]);
@@ -26,14 +26,14 @@ int main() {
     for(q1 = 0; line1[q1] != '>'; q1++);
     for(q2 = q1+1; line1[q2] != '>'; q2++);
 
-    // µÚÒ»ĞĞ
+    // ç¬¬ä¸€è¡Œ
     for(int i = 0; i < len1; i++)
       if(line1[i] != '<' && line1[i] != '>') printf("%c", line1[i]);
     printf("\n");
 
-    // µÚ¶şĞĞ...Ö®Ç°µÄ²¿·Ö
+    // ç¬¬äºŒè¡Œ...ä¹‹å‰çš„éƒ¨åˆ†
     for(int i = 0; i < len2-3; i++)
-      printf("%c", line2[i]); 
+      printf("%c", line2[i]);
 
     print1(p2+1, q2-1);   // s4
     print1(q1+1, p2-1);   // s3

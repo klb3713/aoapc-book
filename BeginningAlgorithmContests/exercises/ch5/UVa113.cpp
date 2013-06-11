@@ -1,13 +1,13 @@
 // UVa113 Power of Cryptography
 // Rujia Liu
-// ÊäÈënºÍp£¬ÇópµÄn´Î·½¸ù¡£Êä³ö±£Ö¤Îª1~10^9µÄÕûÊı
-// Ëã·¨£ºÌâÄ¿¸ø³öµÄ·¶Î§ÔÚdoubleÖ®ÄÚ£¬Ö±½ÓÓÃ¿âº¯ÊıÇó¼´¿É
+// è¾“å…¥nå’Œpï¼Œæ±‚pçš„næ¬¡æ–¹æ ¹ã€‚è¾“å‡ºä¿è¯ä¸º1~10^9çš„æ•´æ•°
+// ç®—æ³•ï¼šé¢˜ç›®ç»™å‡ºçš„èŒƒå›´åœ¨doubleä¹‹å†…ï¼Œç›´æ¥ç”¨åº“å‡½æ•°æ±‚å³å¯
 #include<cstdio>
 #include<cmath>
 
 int main() {
   double n, p;
   while(scanf("%lf%lf", &n, &p) == 2)
-    printf("%.0lf\n", pow(p, 1 / n));  
+    printf("%.0lf\n", pow(p, 1 / n));
   return 0;
 }

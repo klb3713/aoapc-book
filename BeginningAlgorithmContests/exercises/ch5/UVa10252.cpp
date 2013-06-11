@@ -1,15 +1,15 @@
 // UVa10252 Common Permutation
 // Rujia Liu
-// ÌâÒâ£º
-// ¸øÁ½¸öÐ¡Ð´×Ö·û´®a, b£¬ÕÒÒ»¸ö×î³¤µÄ×Ö·û´®x£¬Ê¹µÃxµÄÄ³Ò»¸öÅÅÁÐÊÇaµÄ×ÓÐòÁÐ£¨²»Ò»¶¨Á¬Ðø£©£¬ÇÒxµÄÄ³Ò»¸öÅÅÁÐÊÇbµÄ×ÓÐòÁÐ£¨²»Ò»¶¨Á¬Ðø£©
-// Ëã·¨£ºxÖÐËùÓÐ×Ö·ûÓ¦¸ÃÊÇ°´Ë³ÐòÅÅÁÐ£¬¶ÔÓÚÃ¿Ò»¸ö×Ö·ûch£¬Èç¹ûËüÔÚaÖÐ³öÏÖÁËc1´Î£¬ÔÚbÖÐ³öÏÖÁËc2´Î£¬ÄÇÃ´ÔÚ´ð°¸ÖÐÓ¦³öÏÖmin(c1,c2)´Î
-// ×¢ÒâÊÂÏî£ºÊäÈë¿ÉÄÜÓÐ¿ÕÐÐ£¬Ó¦ÓÃfgetsÊäÈëÕûÐÐ
+// é¢˜æ„ï¼š
+// ç»™ä¸¤ä¸ªå°å†™å­—ç¬¦ä¸²a, bï¼Œæ‰¾ä¸€ä¸ªæœ€é•¿çš„å­—ç¬¦ä¸²xï¼Œä½¿å¾—xçš„æŸä¸€ä¸ªæŽ’åˆ—æ˜¯açš„å­åºåˆ—ï¼ˆä¸ä¸€å®šè¿žç»­ï¼‰ï¼Œä¸”xçš„æŸä¸€ä¸ªæŽ’åˆ—æ˜¯bçš„å­åºåˆ—ï¼ˆä¸ä¸€å®šè¿žç»­ï¼‰
+// ç®—æ³•ï¼šxä¸­æ‰€æœ‰å­—ç¬¦åº”è¯¥æ˜¯æŒ‰é¡ºåºæŽ’åˆ—ï¼Œå¯¹äºŽæ¯ä¸€ä¸ªå­—ç¬¦chï¼Œå¦‚æžœå®ƒåœ¨aä¸­å‡ºçŽ°äº†c1æ¬¡ï¼Œåœ¨bä¸­å‡ºçŽ°äº†c2æ¬¡ï¼Œé‚£ä¹ˆåœ¨ç­”æ¡ˆä¸­åº”å‡ºçŽ°min(c1,c2)æ¬¡
+// æ³¨æ„äº‹é¡¹ï¼šè¾“å…¥å¯èƒ½æœ‰ç©ºè¡Œï¼Œåº”ç”¨fgetsè¾“å…¥æ•´è¡Œ
 #include<cstdio>
 #include<cstring>
 #include<algorithm>
 using namespace std;
 
-// ×Ö·û´®sÖÐ×Ö·ûch³öÏÖµÄ´ÎÊý
+// å­—ç¬¦ä¸²sä¸­å­—ç¬¦chå‡ºçŽ°çš„æ¬¡æ•°
 int count(const char* s, int ch) {
   int cnt = 0, n = strlen(s);
   for(int i = 0; i < n; i++)
@@ -25,7 +25,7 @@ int main() {
     fgets(b, maxn, stdin);
     for(int ch = 'a'; ch <= 'z'; ch++) {
       int cnt = min(count(a, ch), count(b, ch));
-      while(cnt--) printf("%c", ch);    
+      while(cnt--) printf("%c", ch);
     }
     printf("\n");
   }

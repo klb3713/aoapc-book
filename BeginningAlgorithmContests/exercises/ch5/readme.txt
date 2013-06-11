@@ -1,4 +1,4 @@
-﻿《算法竞赛入门经典》代码仓库
+《算法竞赛入门经典》代码仓库
 
 第五章习题代码
 
@@ -32,6 +32,32 @@ UVa152   Tree's a Crowd
 UVa120   Stacks of Flapjacks
 UVa156   Ananagrams
 UVa400   Unix ls
+UVa299   Train Swapping
 
-数学
-UVa113 Power of Cryptography
+数学杂题
+UVa113   Power of Cryptography
+UVa10970 Big Chocolate
+UVa10499 The Land of Justice
+UVa11044 Searching for Nessy
+UVa10790 How Many Points of Intersection?
+UVa10916 Factstone Benchmark
+UVa10014 Simple calculations
+UVa573   The Snail
+UVa591   Box of Bricks
+UVa10161 Ant on a Chessboard
+
+简单数论
+UVa575   Skew Binary
+UVa10110 Light, more light
+UVa568   Just the Facts
+UVa408   Uniform Generator
+UVa350   Pseudo-Random Numbers
+UVa10392 Factoring Large Numbers
+UVa10879 Code Refactoring
+
+简单几何
+UVa10250 The Other Two Trees
+UVa579   ClockHands
+UVa375   Inscribed Circles and Isosceles Triangles
+UVa10387 Billiard
+UVa10112 Myacm Triangles

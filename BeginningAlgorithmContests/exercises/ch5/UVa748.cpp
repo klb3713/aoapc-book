@@ -1,6 +1,6 @@
 // UVa748 Exponentiation
 // Rujia Liu
-// ÌâÒâ£ºÇóR^n£¬ÆäÖĞRÊÇÒ»¸ö²»³¬¹ı100µÄĞ¡Êı£¬×î¶àÓĞ6Î»¡£0<n<=25¡£²»ÄÜÊä³ö¶àÓàµÄ0
+// é¢˜æ„ï¼šæ±‚R^nï¼Œå…¶ä¸­Ræ˜¯ä¸€ä¸ªä¸è¶…è¿‡100çš„å°æ•°ï¼Œæœ€å¤šæœ‰6ä½ã€‚0<n<=25ã€‚ä¸èƒ½è¾“å‡ºå¤šä½™çš„0
 
 #include<cstdio>
 #include<cstring>
@@ -85,15 +85,15 @@ int main() {
   double r;
   int n;
   while(cin >> r >> n) {
-    // Éèr = p / 10^q
+    // è®¾r = p / 10^q
     int q = 0;
     while(fabs(r - floor(r+0.5)) > 1e-6) { q++; r*=10; }
     int p = floor(r+0.5);
 
     bign a = 1;
-    for(int i = 0; i < n; i++) a *= p; // Çóp^n
+    for(int i = 0; i < n; i++) a *= p; // æ±‚p^n
 
-    // Êä³öa / 10^(qn)
+    // è¾“å‡ºa / 10^(qn)
     string s = a.str();
     int left = s.length() - q*n;
     for(int i = 0; i < left; i++) cout << s[i];

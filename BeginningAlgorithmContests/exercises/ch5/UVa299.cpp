@@ -1,7 +1,7 @@
 // UVa299 Train Swapping
 // Rujia Liu
-// ÌâÒâ£ºÊäÈënµÄÒ»¸öÈ«ÅÅÁÐ£¬Ã¿´Î¿ÉÒÔ½»»»ÏàÁÚÁ½¸öÊý£¬×îÉÙÒª¼¸´Î²ÅÄÜ±ä³ÉÉýÐòÅÅÁÐ£¿
-// Ëã·¨£ºÄæÐò¶ÔÊý
+// é¢˜æ„ï¼šè¾“å…¥nçš„ä¸€ä¸ªå…¨æŽ’åˆ—ï¼Œæ¯æ¬¡å¯ä»¥äº¤æ¢ç›¸é‚»ä¸¤ä¸ªæ•°ï¼Œæœ€å°‘è¦å‡ æ¬¡æ‰èƒ½å˜æˆå‡åºæŽ’åˆ—ï¼Ÿ
+// ç®—æ³•ï¼šé€†åºå¯¹æ•°
 #include<cstdio>
 const int maxn = 100;
 int main() {

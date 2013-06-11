@@ -1,6 +1,6 @@
 // UVa10106 Product
 // Rujia Liu
-// ÌâÒâ£ºÊäÈëÁ½¸öÕıÕûÊıX, Y£¨0<=X,Y<10^250£©, ÇóX*Y
+// é¢˜æ„ï¼šè¾“å…¥ä¸¤ä¸ªæ­£æ•´æ•°X, Yï¼ˆ0<=X,Y<10^250ï¼‰, æ±‚X*Y
 #include<cstdio>
 #include<cstring>
 #include<iostream>

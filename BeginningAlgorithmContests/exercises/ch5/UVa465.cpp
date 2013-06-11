@@ -1,7 +1,7 @@
 // UVa465 Overflow
 // Rujia Liu
-// 题意：输入两个非负整数a, b，判断a, b, a+b或者a*b是否溢出
-// 算法：直接作为double输入
+// 棰樻剰锛氳緭鍏ヤ袱涓潪璐熸暣鏁癮, b锛屽垽鏂璦, b, a+b鎴栬�卆*b鏄惁婧㈠嚭
+// 绠楁硶锛氱洿鎺ヤ綔涓篸ouble杈撳叆
 #include<cstdio>
 #include<iostream>
 #include<string>

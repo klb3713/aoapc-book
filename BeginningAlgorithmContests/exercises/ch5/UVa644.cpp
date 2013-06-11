@@ -1,6 +1,6 @@
 // UVa644 Immediate Decodability
 // Rujia Liu
-// ���⣺��һ��01�ַ������ϣ��ж��Ƿ�����һ��������һ����ǰ׺
+// 题意：给一个01字符串集合，判断是否其中一个串是另一个的前缀
 
 #include<iostream>
 #include<string>

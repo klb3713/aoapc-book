@@ -1,6 +1,6 @@
 // UVa10420 List of Conquests
 // Rujia Liu
-// ÌâÒâ£ºÊäÈënÐÐ£¬Ã¿ÐÐÎªÒ»¸ö¹ú¼ÒÃûºÍÒ»¸öÈËÃû¡£ÒªÇóÍ³¼ÆÃ¿¸ö¹ú¼ÒµÄÈËÊý£¬°´¹ú¼ÒÃû×Ö×ÖµäÐòÊä³ö
+// é¢˜æ„ï¼šè¾“å…¥nè¡Œï¼Œæ¯è¡Œä¸ºä¸€ä¸ªå›½å®¶åå’Œä¸€ä¸ªäººåã€‚è¦æ±‚ç»Ÿè®¡æ¯ä¸ªå›½å®¶çš„äººæ•°ï¼ŒæŒ‰å›½å®¶åå­—å­—å…¸åºè¾“å‡º
 
 #include<cstdio>
 #include<string>

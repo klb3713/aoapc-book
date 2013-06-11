@@ -1,7 +1,7 @@
 // UVa10494 If We Were a Child Again
 // Rujia Liu
-// ÌâÒâ£º¸ß¾«¶ÈÕıÕûÊı³ıÒÔ32Î»ÕıÕûÊı
-// ×¢ÒâÊÂÏî£ºÓÃ32Î»ÕûÊı±£´ædµÄ»°£¬d*10ÕâÒ»²½»áÒç³ö
+// é¢˜æ„ï¼šé«˜ç²¾åº¦æ­£æ•´æ•°é™¤ä»¥32ä½æ­£æ•´æ•°
+// æ³¨æ„äº‹é¡¹ï¼šç”¨32ä½æ•´æ•°ä¿å­˜dçš„è¯ï¼Œd*10è¿™ä¸€æ­¥ä¼šæº¢å‡º
 
 #include<iostream>
 #include<string>
@@ -13,7 +13,7 @@ void divmod(const string& a, long long b, string& c, long long& d) {
   d = 0;
   for(int i = 0; i < a.length(); i++) {
     d = d*10 + a[i] - '0';
-    if(c.length() > 0 || d / b != 0) // ²»¼ÓÇ°×º0
+    if(c.length() > 0 || d / b != 0) // ä¸åŠ å‰ç¼€0
       c += (char)('0' + d / b);
     d %= b;
   }

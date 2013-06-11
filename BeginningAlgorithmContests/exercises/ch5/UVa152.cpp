@@ -1,6 +1,6 @@
 // UVa152 Tree's a Crowd
 // Rujia Liu
-// ÌâÒâ£ºÊäÈën¸öÈıÎ¬µã£¬¼ÆËãÃ¿¸öµãiµ½×î½üµãµÄ¾àÀëd[i]£¬Í³¼Æd[i]ÔÚ[0,1), [1,2), [2,3), ..., [9,10)µÄµãµÄ¸öÊı
+// é¢˜æ„ï¼šè¾“å…¥nä¸ªä¸‰ç»´ç‚¹ï¼Œè®¡ç®—æ¯ä¸ªç‚¹iåˆ°æœ€è¿‘ç‚¹çš„è·ç¦»d[i]ï¼Œç»Ÿè®¡d[i]åœ¨[0,1), [1,2), [2,3), ..., [9,10)çš„ç‚¹çš„ä¸ªæ•°
 
 #include<cstdio>
 #include<cstring>
@@ -9,7 +9,7 @@ using namespace std;
 
 const int maxn = 5000 + 10;
 int x[maxn], y[maxn], z[maxn];
-int cnt[10]; // cnt[i]¾ÍÊÇµ½×î½üµã¾àÀëÔÚ[i,i+1)µÄµãµÄ¸öÊı
+int cnt[10]; // cnt[i]å°±æ˜¯åˆ°æœ€è¿‘ç‚¹è·ç¦»åœ¨[i,i+1)çš„ç‚¹çš„ä¸ªæ•°
 
 int main() {
   int n = 0;
@@ -20,7 +20,7 @@ int main() {
   }
   memset(cnt, 0, sizeof(cnt));
   for(int i = 0; i < n; i++) {
-    int mind2 = 1000000000; // mind2ÊÇµãiµ½×î½üµã¾àÀëµÄÆ½·½
+    int mind2 = 1000000000; // mind2æ˜¯ç‚¹iåˆ°æœ€è¿‘ç‚¹è·ç¦»çš„å¹³æ–¹
     for(int j = 0; j < n; j++) if(i != j)
       mind2 = min(mind2, (x[i]-x[j])*(x[i]-x[j]) + (y[i]-y[j])*(y[i]-y[j]) + (z[i]-z[j])*(z[i]-z[j]));
     for(int j = 0; j < 10; j++)

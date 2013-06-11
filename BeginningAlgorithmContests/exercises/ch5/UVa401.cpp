@@ -1,6 +1,6 @@
 // UVa401 Palindromes
 // Rujia Liu
-// 题意：输入一个字符串，判断它是否为回文串以及镜像串。输入字符串保证不含数字0
+// 棰樻剰锛氳緭鍏ヤ竴涓瓧绗︿覆锛屽垽鏂畠鏄惁涓哄洖鏂囦覆浠ュ強闀滃儚涓层�傝緭鍏ュ瓧绗︿覆淇濊瘉涓嶅惈鏁板瓧0
 #include<cstdio>
 #include<cstring>
 #include<cctype>

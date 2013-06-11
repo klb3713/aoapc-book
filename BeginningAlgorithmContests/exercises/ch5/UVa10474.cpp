@@ -1,6 +1,6 @@
 // UVa10474 Where is the Marble?
 // Rujia Liu
-// ÌâÒâ£ºÊäÈën¸öÕıÕûÊı£¬´ÓĞ¡µ½´óÅÅĞò
+// é¢˜æ„ï¼šè¾“å…¥nä¸ªæ­£æ•´æ•°ï¼Œä»å°åˆ°å¤§æ’åº
 
 #include<cstdio>
 #include<algorithm>

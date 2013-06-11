@@ -1,6 +1,6 @@
 // UVa537 Artificial Intelligence?
 // Rujia Liu
-// ÌâÒâ£ºÊäÈëÒ»¶ÎÎïÀí¼ÆËãÌâÎÄ±¾£¬°üº¬U=??V, I=??A, P=??WÖÐµÄÇ¡ºÃÁ½¸ö£¬ÒªÇó¼ÆËã³öµÚÈý¸ö¡£¹«Ê½ÎªP=U*I¡£µ¥Î»¿ÉÄÜÓÐm, k, MµÄÇ°×º¡£
+// é¢˜æ„ï¼šè¾“å…¥ä¸€æ®µç‰©ç†è®¡ç®—é¢˜æ–‡æœ¬ï¼ŒåŒ…å«U=??V, I=??A, P=??Wä¸­çš„æ°å¥½ä¸¤ä¸ªï¼Œè¦æ±‚è®¡ç®—å‡ºç¬¬ä¸‰ä¸ªã€‚å…¬å¼ä¸ºP=U*Iã€‚å•ä½å¯èƒ½æœ‰m, k, Mçš„å‰ç¼€ã€‚
 #include<iostream>
 #include<cstdio>
 #include<string>

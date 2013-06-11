@@ -1,7 +1,7 @@
 // UVa340 Master-Mind Hints
 // Rujia Liu
-// ���⣺ʵ��һ�����䡰�����֡���Ϸ�����������к��û��µ����У�ͳ���ж�������λ����ȷ��A�����ж����������������ж����ֹ���λ�ò��ԣ�B��
-// �㷨��ֱ��ͳ�ƿɵ�A��Ϊ����B������ÿ�����֣�1~9����ͳ���ڶ��߳��ֵĴ���c1��c2����min(c1,c2)���Ǹ����ֶ�B�Ĺ��ס����Ҫ��ȥA�Ĳ���
+// 题意：实现一个经典“猜数字”游戏。给定答案序列和用户猜的序列，统计有多少数字位置正确（A），有多少数字在两个序列都出现过但位置不对（B）
+// 算法：直接统计可得A，为了求B，对于每个数字（1~9），统计在二者出现的次数c1和c2，则min(c1,c2)就是该数字对B的贡献。最后要减去A的部分
 #include<cstdio>
 #include<algorithm>
 using namespace std;

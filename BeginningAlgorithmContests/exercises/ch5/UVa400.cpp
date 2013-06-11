@@ -1,7 +1,7 @@
 // UVa400 Unix ls
 // Rujia Liu
-// ÌâÒâ£ºÊäÈën¸öÎÄ¼şÃû£¬ÅÅĞòºó°´ÁĞÓÅÏÈµÄ·½Ê½×ó¶ÔÆëÊä³ö¡£¼ÙÉè×î³¤ÎÄ¼şÃûÓĞM×Ö·û£¬Ôò×îÓÒÁĞÓĞM×Ö·û£¬ÆäËûÁĞ¶¼ÊÇM+2×Ö·û¡£
-// Ëã·¨£ºÊ×ÏÈ¼ÆËã³öM²¢Ëã³öĞĞÊı£¬È»ºóÖğĞĞÖğÁĞÊä³ö
+// é¢˜æ„ï¼šè¾“å…¥nä¸ªæ–‡ä»¶åï¼Œæ’åºåæŒ‰åˆ—ä¼˜å…ˆçš„æ–¹å¼å·¦å¯¹é½è¾“å‡ºã€‚å‡è®¾æœ€é•¿æ–‡ä»¶åæœ‰Må­—ç¬¦ï¼Œåˆ™æœ€å³åˆ—æœ‰Må­—ç¬¦ï¼Œå…¶ä»–åˆ—éƒ½æ˜¯M+2å­—ç¬¦ã€‚
+// ç®—æ³•ï¼šé¦–å…ˆè®¡ç®—å‡ºMå¹¶ç®—å‡ºè¡Œæ•°ï¼Œç„¶åé€è¡Œé€åˆ—è¾“å‡º
 #include<iostream>
 #include<string>
 #include<algorithm>
@@ -11,7 +11,7 @@ const int maxcol = 60;
 const int maxn = 100 + 5;
 string filenames[maxn];
 
-// Êä³ö×Ö·û´®s£¬³¤¶È²»×ãlenÊ±²¹×Ö·ûextra
+// è¾“å‡ºå­—ç¬¦ä¸²sï¼Œé•¿åº¦ä¸è¶³lenæ—¶è¡¥å­—ç¬¦extra
 void print(const string& s, int len, char extra) {
   cout << s;
   for(int i = 0; i < len-s.length(); i++)
@@ -26,7 +26,7 @@ int main() {
       cin >> filenames[i];
       M = max(M, (int)filenames[i].length());
     }
-    // ¼ÆËãÁĞÊıcolsºÍĞĞÊırows
+    // è®¡ç®—åˆ—æ•°colså’Œè¡Œæ•°rows
     int cols = (maxcol - M) / (M + 2) + 1, rows = (n - 1) / cols + 1;
     print("", 60, '-');
     cout << "\n";

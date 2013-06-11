@@ -1,7 +1,7 @@
 // UVa156 Ananagrams
 // Rujia Liu
-// ���⣺����һЩ���ʣ��ҳ������������������ĵ��ʣ��õ��ʲ���ͨ����ĸ���ŵõ������ı��е�����һ������
-// �㷨����ÿ�����ʡ���׼��������ȫ��ת��ΪСд��ĸȻ������Ȼ��ŵ�map�н���ͳ��
+// 题意：输入一些单词，找出所有满足如下条件的单词：该单词不能通过字母重排得到输入文本中的另外一个单词
+// 算法：把每个单词“标准化”，即全部转化为小写字母然后排序，然后放到map中进行统计
 #include<iostream>
 #include<string>
 #include<cctype>
@@ -13,7 +13,7 @@ using namespace std;
 map<string,int> cnt;
 vector<string> words;
 
-// ������s���С���׼����
+// 将单词s进行“标准化”
 string repr(string s) {
   string ans = s;
   for(int i = 0; i < ans.length(); i++)

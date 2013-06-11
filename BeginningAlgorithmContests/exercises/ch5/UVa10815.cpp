@@ -1,6 +1,6 @@
 // UVa10815 Andy's First Dictionary
 // Rujia Liu
-// ���⣺����һ���ı����ҳ����в�ͬ�ĵ��ʣ�������ĸ���У������ֵ����С������������ʲ��ִ�Сд��
+// 题意：输入一个文本，找出所有不同的单词（连续字母序列），按字典序从小到大输出。单词不分大小写。
 #include<iostream>
 #include<string>
 #include<set>

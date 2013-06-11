@@ -1,6 +1,6 @@
 // UVa10115 Automatic Editing
 // Rujia Liu
-// 题意：输入n次替换，每次替换用两个字符串s1, s2表示（各占一行，s2可能为空串），即把第一个遇到的s1替换为s2。如果替换成功那么再替换一次，直到
+// 棰樻剰锛氳緭鍏娆℃浛鎹紝姣忔鏇挎崲鐢ㄤ袱涓瓧绗︿覆s1, s2琛ㄧず锛堝悇鍗犱竴琛岋紝s2鍙兘涓虹┖涓诧級锛屽嵆鎶婄涓�涓亣鍒扮殑s1鏇挎崲涓簊2銆傚鏋滄浛鎹㈡垚鍔熼偅涔堝啀鏇挎崲涓�娆★紝鐩村埌
 #include<iostream>
 #include<string>
 #include<cstdio>

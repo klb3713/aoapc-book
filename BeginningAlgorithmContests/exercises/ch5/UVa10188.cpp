@@ -1,7 +1,7 @@
 // UVa10188 Automated Judge Script
 // Rujia Liu
-// ÌâÒâ£º¸ø¶¨±ê×¼´ð°¸ºÍÑ¡ÊÖÊä³ö£¬ÅÐ¶ÏÊÇÕýÈ·(AC)£¬´íÎó(WA)»¹ÊÇ¸ñÊ½´í(PE)
-// ¾ßÌåÀ´Ëµ£¬ÏÈ°ÑËùÓÐÐÐºÏ²¢ÔÚÒ»Æð£¬Èç¹ûÍêÈ«ÏàÍ¬ÔòÊÇAC£»·ñÔòÈç¹ûËùÓÐÊý×Ö×Ö·û°´ÕÕË³ÐòÍêÈ«ÏàµÈ£¬ÔòPE£¬·ñÔòWA
+// é¢˜æ„ï¼šç»™å®šæ ‡å‡†ç­”æ¡ˆå’Œé€‰æ‰‹è¾“å‡ºï¼Œåˆ¤æ–­æ˜¯æ­£ç¡®(AC)ï¼Œé”™è¯¯(WA)è¿˜æ˜¯æ ¼å¼é”™(PE)
+// å…·ä½“æ¥è¯´ï¼Œå…ˆæŠŠæ‰€æœ‰è¡Œåˆå¹¶åœ¨ä¸€èµ·ï¼Œå¦‚æžœå®Œå…¨ç›¸åŒåˆ™æ˜¯ACï¼›å¦åˆ™å¦‚æžœæ‰€æœ‰æ•°å­—å­—ç¬¦æŒ‰ç…§é¡ºåºå®Œå…¨ç›¸ç­‰ï¼Œåˆ™PEï¼Œå¦åˆ™WA
 
 #include<cstdio>
 #include<cctype>

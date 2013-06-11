@@ -1,6 +1,6 @@
 // UVa424 Integer Inquiry
 // Rujia Liu
-// 题意：输入若干个大整数，计算所有数之和
+// 棰樻剰锛氳緭鍏ヨ嫢骞蹭釜澶ф暣鏁帮紝璁＄畻鎵�鏈夋暟涔嬪拰
 #include<cstdio>
 #include<cstring>
 #include<iostream>
