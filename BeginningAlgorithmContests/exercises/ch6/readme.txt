@@ -6,6 +6,15 @@
 
 所有代码中都写了题目大意。
 
+线性表
+UVa127   "Accordian" Patience
+UVa101   The Blocks Problem
+UVa133   The Dole Queue
+UVa673   Parentheses Balance
+UVa442   Matrix Chain Multiplication
+UVa540   Team Queue
+UVa10050 Hartals
+
 树
 UVa548   Tree
 UVa297   Quadtrees
