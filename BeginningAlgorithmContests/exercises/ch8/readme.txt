@@ -18,3 +18,8 @@ UVa10487 Closest Sums
 UVa270   Lining Up
 UVa10714 Ants
 UVa10041 Vito's Family
+UVa10026 Shoemaker's Problem
+UVa10670 Work Reduction
+UVa10700 Camel trading
+UVa108   Maximum Sum
+UVa507   Jill Rides Again
