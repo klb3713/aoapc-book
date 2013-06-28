@@ -21,3 +21,11 @@ UVa10285 Longest Run on a Snowboard  DAG最长路
 UVa437   The Tower of Babylon        DAG最长路LIS，注意程序实现
 UVa562   Dividing coins              01背包，价值和重量相等
 UVa624   CD                          01背包，价值和重量相等，输出方案
+UVa10739 String to Palindrome        类似LCS
+UVa10617 Again Palindrome            类似LCS，需要用到容斥原理
+UVa10003 Cutting Sticks              区间DP
+UVa116   Unidirectional TSP          多段图的最段路，要输出字典序最小解
+UVa348   Optimal Array Multiplication Sequence 最优矩阵链乘
+UVa825   Walking on the Safe Side    多段图的最短路
+UVa590   Always on the run           多段图的最短路
+UVa10304 Optimal Binary Search Tree  经典的OBST问题
