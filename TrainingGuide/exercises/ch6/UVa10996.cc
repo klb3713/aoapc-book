@@ -43,7 +43,7 @@ void dump() {
     puts("====================================================");
 }
 
-// 检查[i,j]是不是已经被color一方捕获
+// 检查p是不是已经被color一方捕获
 bool check_capture(Point p, CellStat color) {
     int& mk = mark[p.x][p.y];
     if(mk) return true;
@@ -71,13 +71,13 @@ void do_capture(Point p, CellStat color, int *score) {
         do_capture(a[j], color, score);
 }
 
-bool check_own(Point p, CellStat color) {
+bool check_own(Point p, CellStat color) { // 检查p是不是已经被color围起来的空格
     CellStat bd = board[p.x][p.y];
-    int& v = mark[p.x][p.y];
+    int& mk = mark[p.x][p.y];
     if(bd == color) return true;
     if(bd == BORDER) return true;
-    if(v) return true;
-    v = 1;
+    if(mk) return true;
+    mk = 1;
     
     if(bd != EMPTY) return false;
     vector<Point> a = adj(p);
