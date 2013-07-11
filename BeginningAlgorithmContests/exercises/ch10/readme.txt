@@ -24,3 +24,9 @@ UVa10219 Find the ways !          对数；组合数公式
 UVa10359 Tiling                   递推；大整数加法
 UVa10334 Ray Through Glasses      递推；大整数加法
 UVa11069 A Graph Problem          递推
+UVa10157 Expressions              递推；大整数加减法与乘法
+UVa10519 !! REALLY STRANGE !!     找规律；大整数加减法、乘法与输入输出
+UVa10183 How many Fibs?           Fibonacci数；大整数加法、比较与输入
+UVa10516 Another Counting Problem 递推；大整数加减法与乘法
+UVa10303 How Many Trees?          Catalan数；大整数乘法与除法（除以小整数）
+UVa991   Safe Salutations         Catalan数
