@@ -6,3 +6,5 @@
 * 二分查找       bsearch.c(递归), bsearch2.c(迭代), lbub.c(上界/下界)
 * 范围统计       range.cpp(STL)
 * 贷款           loan.c
+* 快速排序       qsort.c
+* 第k小的数      find_k_min.c
